@@ -1,0 +1,116 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "3OxDpe/Rmhgn1/D8MwIVNg=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/content/theme.ts",
+      "hash": "c+dTr3v0HjBJM/iRDTULLg=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "3D03nawPECspXWjH74Pf6g=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "Ss0fBqHsKE8+nXD5hPijPQ=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "qPv9xqKAi1tsPJhz2JGGdw=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "8aTf3DSxcHJqbH2NWd4nEA=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "kmIZH9HOy45RmTqoI6292A=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "fnkDwZgcDRYjaADw5fOkPQ=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "lAAA8Q1H/+Vgr2OTATwU1g=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "ribSsXJycZxs4HMttlddlQ=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "G615SiqYTz///foz9zSekQ=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "zqnJuVP3jdErVdecz2oXGg=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "ZVfwoa2Ro68q1CXEcnZu8Q=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "ZHVTiW4YQuReto00K+s7rg=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "3/t4Acl5PawGKH/v6Pi/yw=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "FRi75tQM2IJCEJqClvYBFg=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "tu2NYv2a/U2oboTHbtp85g=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "VTiQkZprqSp0WRbj890mVA=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "5p/RgT2Mf74iZzUVZwBhbg=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "N1bILrZiVxUANXITyt1Uag=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "i2pLJ2QrIFbKrwHobzUX7g=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "YH1uarZppl8jQ2qDdriEcA=="
+  }
+}
