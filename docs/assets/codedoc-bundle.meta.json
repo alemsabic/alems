@@ -74,6 +74,11 @@
       "name": "gatherFootnotes",
       "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
       "hash": "3/t4Acl5PawGKH/v6Pi/yw=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "qv68ViynDR4s8WA0+oEeWA=="
     }
   ],
   "components": [
