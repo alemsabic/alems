@@ -12,11 +12,12 @@ export const config = /*#__PURE__*/configuration({
       base: 'Alems.org'                   // --> the base title of your doc pages
     }
   },
-  
-  dest: {
-  namespace: '/ala',
-},
 
+dest: {
+  namespace: '/ala',
+  html: 'dist',
+  assets: 'dist',
+},
 
 misc: {
   github: {
