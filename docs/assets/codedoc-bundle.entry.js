@@ -16,6 +16,7 @@ import { copyLineLinks } from '/Users/admin/Desktop/alems.org/.codedoc/node_modu
 import { gatherFootnotes } from '/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js';gatherFootnotes();
 import { reloadOnChange } from '/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { ToCPrevNext } from '/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { GithubSearch } from '/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/Users/admin/Desktop/alems.org/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
@@ -24,6 +25,7 @@ import { CollapseControl } from '/Users/admin/Desktop/alems.org/.codedoc/node_mo
 
 const components = {
   'FRi75tQM2IJCEJqClvYBFg==': ToCPrevNext,
+  'juo68aUo60qJQfakWtUZgg==': GithubSearch,
   'tu2NYv2a/U2oboTHbtp85g==': ToCToggle,
   'VTiQkZprqSp0WRbj890mVA==': DarkModeSwitch,
   '5p/RgT2Mf74iZzUVZwBhbg==': ConfigTransport,
