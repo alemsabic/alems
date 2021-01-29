@@ -14,7 +14,7 @@ export const config = /*#__PURE__*/configuration({
   },
 
 dest: {
-  namespace: '/ala',
+  namespace: '/ala/dist',
   html: 'dist',
   assets: 'dist',
 },
