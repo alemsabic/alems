@@ -14,7 +14,7 @@ export const config = /*#__PURE__*/configuration({
   },
 
 dest: {
-  
+  namespace: '/dist',
   html: 'dist',
   assets: 'dist',
 },
