@@ -9,7 +9,7 @@ export const config = /*#__PURE__*/configuration({
   
   page: {
     title: {
-      base: 'Alems.org'                   // --> the base title of your doc pages
+      base: 'docs'                   // --> the base title of your doc pages
     }
   },
 
