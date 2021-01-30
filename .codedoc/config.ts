@@ -9,7 +9,7 @@ export const config = /*#__PURE__*/configuration({
   
   page: {
     title: {
-      base: 'Vom Affen für Affen'                   // --> the base title of your doc pages
+      base: 'Hier steht der Titel'                   // --> the base title of your doc pages
     }
   },
 
