@@ -7,44 +7,19 @@ import { theme } from './theme';
 export const config = /*#__PURE__*/configuration({
   theme,                           // --> add the theme. modify `./theme.ts` for chaning the theme.
   page: {                                // @see /docs/config/page
-    connector: ' | ',                  // --> the connector of different parts of the page title
-    extractor: (content, config) =>    // --> the page-specific title extractor
-      guessTitle(
-        content, 
-        config.page.title.base, 
-        config.page.title.connector
-      ),
-  },
-  //favicon: undefined                   // --> link to your fav icon
-  meta: {                              // --> meta tags of each page
-    subject: 'test'      ,           // --> the subject meta tag for each page
-    description: 'testertoni'   ,          // --> description meta tag for each page
-    keywords: [],                      // --> a list of SEO keywords
-    themeColor: '#212121',             // --> the browser bar color of your docs
-    appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
-      'black-translucent'
-  },
-  fonts: {                             // --> font settings
-    text: {                            // --> font used for texts
-      url:                             // --> URL of font used for texts
-        'https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&display=swap',
-      name: 'Alegreya Sans'          ,           // --> name of font used for texts
-      fallback: 'sans-serif'    ,       // --> the fallback font for texts
+    title: {
+      base: 'Codedoc',
     },
-    code: {                            // --> font used for codes
-      url:                             // --> URL of font used for codes
-        'https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400&display=swap',
-      name: 'Source Code Pro',         // --> name of the font used for codes
-      fallback:                        // --> fallback font for codes
-        `'Courier New', Courier, monospace`,
+
+    meta: {                              // --> meta tags of each page
+      subject: 'test'      ,           // --> the subject meta tag for each page
+      description: 'testertoni'   ,          // --> description meta tag for each page
+      keywords: [],                      // --> a list of SEO keywords
+      themeColor: '#000000',             // --> the browser bar color of your docs
+      appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
+        'black-translucent',
     },
-    icon: {                            // --> the icon font
-      url:                             // --> url of hte icon font (and perhaps the outline icon font)
-        'https://fonts.googleapis.com/icon?family=Material+Icons%7CMaterial+Icons+Outlined',
-      name: 'Material Icons',          // --> name of the icon font
-      outline:                         // --> name of the outline icon font
-        'Material Icons Outlined'
-    }
+
   },
 
 
