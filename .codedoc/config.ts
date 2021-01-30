@@ -5,8 +5,14 @@ import { theme } from './theme';
 
 
 export const config = /*#__PURE__*/configuration({
-  theme,                                  // --> add the theme. modify `./theme.ts` for chaning the theme.
-  
+  theme,                           // --> add the theme. modify `./theme.ts` for chaning the theme.
+  src: {                                 // @see /docs/config/entry
+    base: 'md',                     // --> the base folder for all markdowns
+    toc: '_toc.md',                      // --> markdown file for toc, relative to `base`
+    pick: /\.md$/,                       // --> which files to pick (default: .md files)
+    drop: /(^_)|(\/_)/,                  // --> which files to drop (default: _something.md files)
+  },
+
   page: {
     title: {
       base: 'Hier steht der Titel'                   // --> the base title of your doc pages
