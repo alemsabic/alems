@@ -20,7 +20,7 @@ export const config = /*#__PURE__*/configuration({
       subject: 'test'      ,           // --> the subject meta tag for each page
       description: 'testertoni'   ,          // --> description meta tag for each page
       keywords: [],                      // --> a list of SEO keywords
-      themeColor: '#6653ff',             // --> the browser bar color of your docs
+      themeColor: 'black',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
     },
@@ -88,7 +88,7 @@ export const config = /*#__PURE__*/configuration({
       }
       
      p {
-        font-size: calc(0.95rem + 0.25vw);
+        font-size: calc(0.95rem + 0.35vw);
       }
 
       `}
