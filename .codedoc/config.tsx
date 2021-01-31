@@ -3,6 +3,11 @@ import { configuration } from '@codedoc/core';
 
 import { theme } from './theme';
 
+import { StaticRenderer } from '@connectv/sdh';    // --> import a static renderer for easily creating the script elements
+import register from 'jsdom-global';               // --> also lets create a global document object for that purpose
+
+const renderer = new StaticRenderer();             // --> initialize renderer
+register();                                        // --> register global document object
 
 export const config = /*#__PURE__*/configuration({
   theme,                           // --> add the theme. modify `./theme.ts` for chaning the theme.
@@ -42,7 +47,54 @@ export const config = /*#__PURE__*/configuration({
         outline:                         // --> name of the outline icon font
           'Material Icons Outlined'
       }
-    },
+    },  
+    
+    stylesheets: [
+      <style>
+       {`
+
+       html {
+         font-size: 100%;
+       }
+       body {
+        line-height: 1.5;
+      }
+      h1,h2,h3,h4 {
+        line-height:1.1;
+        text-transform: uppercase;
+      }
+       h1 {
+        font-size: calc(1.3rem + 3.6vw);
+      }
+      
+     h1 {
+        font-size: 2.25rem;
+      }
+      
+      @media (min-width: 414px) {
+       h1 {
+          font-size: calc(1.3rem + 3.6vw);
+        }
+      }
+      
+      @media (min-width: 1440px) {
+       h1 {
+          font-size: 4.75rem;
+        }
+      }
+      
+     h2 {
+        font-size: calc(1.25rem + 1.3vw);
+      }
+      
+     p {
+        font-size: calc(0.95rem + 0.25vw);
+      }
+
+      `}
+      </style>,
+    ]
+
 
 
   },
