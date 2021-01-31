@@ -52,45 +52,23 @@ export const config = /*#__PURE__*/configuration({
     stylesheets: [
       <style>
        {`
-
-       html {
-         font-size: 100%;
-       }
-       body {
-        line-height: 1.5;
-      }
-      h1,h2,h3,h4 {
-        line-height:1.1;
-        text-transform: uppercase;
-      }
-       h1 {
-        font-size: calc(1.3rem + 3.6vw);
-      }
-      
-     h1 {
-        font-size: 2.25rem;
-      }
-      
-      @media (min-width: 414px) {
-       h1 {
-          font-size: calc(1.3rem + 3.6vw);
-        }
-      }
-      
-      @media (min-width: 1440px) {
-       h1 {
-          font-size: 4.75rem;
-        }
-      }
-      
-     h2 {
-        font-size: calc(1.25rem + 1.3vw);
-      }
-      
-     p {
-        font-size: calc(0.95rem + 0.35vw);
-      }
-
+       html {font-size: 100%;}
+       body {line-height: 1.5;}
+       h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
+       h3 {line-height:1.1;letter-spacing:2px;}
+       h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
+       h1::after {
+        content: "_";
+      }}
+       h1{font-size: calc(1.3rem + 3.6vw);}
+       h1{font-size: 2.25rem;}
+      @media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
+      @media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
+       h2 {font-size: calc(1.25rem + 1.3vw);}
+       h3 {font-size: calc(0.9rem + 0.7vw);}
+       p, li {font-size: calc(0.95rem + 0.3vw);}
+      .contentnav-0-0-10 {font-size: 18px !important;}
+      .header-0-0-5, .inside {display:none !important;}
       `}
       </style>,
     ]
@@ -110,10 +88,10 @@ misc: {
   github: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
     repo: 'ala',         // --> name of the repo on GitHub
-    action: 'Issue',            // --> action of the GitHub button
-    count: true,                // --> whether to show the `count` on the GitHub button
-    large: true,                // --> whether to show a `large` GitHub button
-    standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
+    // action: 'Issue',            // --> action of the GitHub button
+    // count: true,                // --> whether to show the `count` on the GitHub button
+    //large: true,                // --> whether to show a `large` GitHub button
+    // standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
   },
   //...
 },
