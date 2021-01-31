@@ -16,7 +16,6 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 
           scripts={config.page.scripts}
           stylesheets={config.page.stylesheets}
-
           header={<Header {...config}/>}
           footer={<Footer {...config}/>}
           toc={
