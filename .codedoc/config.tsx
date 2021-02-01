@@ -66,9 +66,38 @@ export const config = /*#__PURE__*/configuration({
       @media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
        h2 {font-size: calc(1.25rem + 1.3vw);}
        h3 {font-size: calc(0.9rem + 0.7vw);}
-       p, li {font-size: calc(0.95rem + 0.3vw);}
-      .contentnav-0-0-10 {font-size: 18px !important;}
+       p {font-size: calc(0.95rem + 0.3vw);}
+       li, .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
+       .contentnav-0-0-10 {border-left: 2px solid !important;}
       .header-0-0-5, .inside {display:none !important;}
+      .footnotes-0-0-3:before {
+        content: ""; 
+        display: block;
+        width: 10%;
+        padding-top: 12px;
+        border-top: 2px solid;
+      }
+      ol {
+        counter-reset: cupcake;
+        padding-left: 12px;
+        list-style-type: none;
+      }
+      ol ol {
+        padding-left:24px;
+      }
+      ol li {
+        counter-increment: cupcake;
+        position:relative;
+      }
+      ol li:before {
+        content: counters(cupcake, '.') ' ';
+        padding-right:12px;
+        font-size:0.9em;
+        font-weight:bold;
+      }
+      sup {
+        font-size:0.75em;
+      }
       `}
       </style>,
     ]
