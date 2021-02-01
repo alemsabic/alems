@@ -98,6 +98,12 @@ export const config = /*#__PURE__*/configuration({
       sup {
         font-size:0.75em;
       }
+      body .toc-0-0-7 {
+        background: #dddddd !important;
+      }
+      body.dark .toc-0-0-7 {
+        background: black !important;
+      }
       `}
       </style>,
     ]
