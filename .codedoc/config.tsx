@@ -108,7 +108,7 @@ export const config = /*#__PURE__*/configuration({
         border-color: #69f0ae !important;
       }
       body .toc-0-0-7 a.current, body .toc-0-0-7  {
-        border-color: #6653ff !important;
+        border-color: #3720ea !important;
       }
       `}
       </style>,
