@@ -65,7 +65,7 @@ export const config = /*#__PURE__*/configuration({
       @media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
       @media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
        h2 {font-size: calc(1.25rem + 1.3vw);}
-       h3, .cs--holder-0 .label, .cs--holder-0 .icon-font {font-size: calc(0.9rem + 0.7vw) !important;}
+       h3 {font-size: calc(0.9rem + 0.7vw) !important;}
        p {font-size: calc(0.95rem + 0.3vw);}
        li, .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
        .contentnav-0-0-10 {border-left: 1px solid !important;}
