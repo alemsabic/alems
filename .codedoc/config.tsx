@@ -65,17 +65,17 @@ export const config = /*#__PURE__*/configuration({
       @media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
       @media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
        h2 {font-size: calc(1.25rem + 1.3vw);}
-       h3 {font-size: calc(0.9rem + 0.7vw);}
+       h3, .cs--holder-0 .label, .cs--holder-0 .icon-font {font-size: calc(0.9rem + 0.7vw) !important;}
        p {font-size: calc(0.95rem + 0.3vw);}
        li, .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
-       .contentnav-0-0-10 {border-left: 2px solid !important;}
+       .contentnav-0-0-10 {border-left: 1px solid !important;}
       .header-0-0-5, .inside {display:none !important;}
       .footnotes-0-0-3:before {
         content: ""; 
         display: block;
         width: 10%;
         padding-top: 12px;
-        border-top: 2px solid;
+        border-top: 1px solid;
       }
       ol {
         counter-reset: cupcake;
@@ -103,6 +103,12 @@ export const config = /*#__PURE__*/configuration({
       }
       body.dark .toc-0-0-7 {
         background: black !important;
+      }
+      body.dark .toc-0-0-7 a.current, body.dark .toc-0-0-7, body .toc-0-0-7 a.current, body .toc-0-0-7  {
+        border-color: #69f0ae !important;
+      }
+      body .toc-0-0-7 a.current, body .toc-0-0-7  {
+        border-color: #6653ff !important;
       }
       `}
       </style>,
