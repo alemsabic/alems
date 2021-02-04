@@ -15,5 +15,5 @@ export function Footer(config: CodedocConfig, renderer: any) {
   if (github$ && community$) return <_Footer>{github$}<hr/>{community$}</_Footer>;
   else if (github$) return <_Footer>{github$}</_Footer>;
   else if (community$) return <_Footer>{community$}</_Footer>;
-  else return <_Footer><Watermark/></_Footer>;
+  else return <_Footer></_Footer>;
 }

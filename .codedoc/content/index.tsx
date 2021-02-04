@@ -19,7 +19,8 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
           header={<Header {...config}/>}
           footer={<Footer {...config}/>}
           toc={
-            <ToC search={
+            <ToC default="open"
+            search={
                   config.misc?.github ? 
                   <GithubSearch$
                     repo={config.misc.github.repo} 
