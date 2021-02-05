@@ -54,8 +54,6 @@ export const config = /*#__PURE__*/configuration({
        {`
        html {font-size: 100%;}
        body {line-height: 1.5;}
-       body {text-shadow:0px 1px 1px rgb(255 255 255 / 80%);}
-       body.dark {text-shadow:none;}
        h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
        h3 {line-height:1.1;letter-spacing:2px;}
        h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
@@ -69,7 +67,7 @@ export const config = /*#__PURE__*/configuration({
        h2 {font-size: calc(1.25rem + 1.3vw);}
        h3 {font-size: calc(0.9rem + 0.7vw) !important;}
        p {font-size: calc(0.95rem + 0.3vw);}
-       li, .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
+       .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
        .contentnav-0-0-10 {border-left: 1px solid !important;}
       .header-0-0-5, .inside {display:none !important;}
       .footnotes-0-0-4:before {
@@ -77,25 +75,29 @@ export const config = /*#__PURE__*/configuration({
         display: block;
         width: 10%;
         padding-top: 12px;
-        border-top: 1px solid;
+        border-top: 2px solid;
       }
       ol {
         counter-reset: cupcake;
-        padding-left: 12px;
-        list-style-type: none;
-      }
-      ol ol {
-        padding-left:24px;
+        padding-left: 1.5em;
+        list-style: none;
       }
       ol li {
         counter-increment: cupcake;
-        position:relative;
       }
       ol li:before {
+        position: absolute;
         content: counters(cupcake, '.') ' ';
-        padding-right:12px;
-        font-size:0.9em;
-        font-weight:bold;
+        margin-left: -1.5em;
+        font-weight: bold;
+      }
+      ol ol {
+        padding-left: 1.5em;
+      }
+      ol ol li:before {
+        position: absolute;
+        content: "▸ ";
+        margin-left: -1.5em;
       }
       sup {
         font-size:0.75em;
