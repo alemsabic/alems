@@ -66,7 +66,7 @@ export const config = /*#__PURE__*/configuration({
       @media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
        h2 {font-size: calc(1.25rem + 1.3vw);}
        h3 {font-size: calc(0.9rem + 0.7vw) !important;}
-       p {font-size: calc(0.95rem + 0.3vw);}
+       p, ol, ul {font-size: calc(0.95rem + 0.3vw);}
        .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
        .contentnav-0-0-10 {border-left: 1px solid !important;}
       .header-0-0-5, .inside {display:none !important;}
@@ -79,7 +79,7 @@ export const config = /*#__PURE__*/configuration({
       }
       ol {
         counter-reset: cupcake;
-        padding-left: 1.5em;
+        padding-left: 1.6em;
         list-style: none;
       }
       ol li {
