@@ -54,6 +54,8 @@ export const config = /*#__PURE__*/configuration({
        {`
        html {font-size: 100%;}
        body {line-height: 1.5;}
+       body {text-shadow:0px 1px 1px rgb(255 255 255 / 80%);}
+       body.dark {text-shadow:none;}
        h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
        h3 {line-height:1.1;letter-spacing:2px;}
        h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
@@ -70,7 +72,7 @@ export const config = /*#__PURE__*/configuration({
        li, .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
        .contentnav-0-0-10 {border-left: 1px solid !important;}
       .header-0-0-5, .inside {display:none !important;}
-      .footnotes-0-0-3:before {
+      .footnotes-0-0-4:before {
         content: ""; 
         display: block;
         width: 10%;
@@ -99,7 +101,7 @@ export const config = /*#__PURE__*/configuration({
         font-size:0.75em;
       }
       body .toc-0-0-7 {
-        background: #dddddd !important;
+        background: #ccc !important;
       }
       body.dark .toc-0-0-7 {
         background: black !important;

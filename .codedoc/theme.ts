@@ -3,10 +3,10 @@ import { createTheme } from '@codedoc/core/transport';
 
 export const theme = /*#__PURE__*/createTheme({
   light: {
-    background: '#dddddd',           // --> CSS color string, background of the page
+    background: '#cccccc',           // --> CSS color string, background of the page
     text: '#3720ea',            // --> CSS color string, color of text
     primary: '#3720ea',             // --> CSS color string, primary color (for buttons, links, etc)
-    primaryContrast: '#dddddd',      // --> CSS color string, text color on primary background (e.g. buttons)
+    primaryContrast: '#cccccc',      // --> CSS color string, text color on primary background (e.g. buttons)
     border: '#b1abe0',               // --> CSS color string, border colors
     code: '#3720ea',                  // --> CSS color string, in-text code color
   },

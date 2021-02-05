@@ -1,7 +1,7 @@
 > :DarkLight
 > > :InLight
 > >
-> > ![header](/logo.png)
+> > ![header](/logo-dark.png)
 >
 > > :InDark
 > >
@@ -16,6 +16,8 @@ Integer velit dolor, condimentum at blandit id, euismod at odio. Pellentesque id
 
 Nunc in facilisis ipsum. Vestibulum erat eros, condimentum at auctor id, bibendum vel ligula. Mauris nec laoreet mauris. Etiam pulvinar sed odio nec aliquet. Sed fermentum suscipit sapien at placerat. Proin blandit sem non odio tempus auctor. Maecenas sit amet ante vestibulum massa fermentum pretium.
 
+****
+
 ## Dies und das
 
 HTML, the predominant markup language for web pages, has no mechanism for marking up notes. Despite a number of different proposals over the years, and repeated pleas from the user base, the working group has been unable to reach a consensus on it. Because of this, MediaWiki, for example, has had to introduce its own <ref></ref> tag for citing references in notes, an idea which has since also been implemented for generic use by the Nelson HTML preprocessor.["Nelson HTML Preprocessor". Retrieved 2009-06-09.](:Footnote)
@@ -26,6 +28,8 @@ or irrelevant.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue.
 > :Footnotes
 
 Donec est tellus, varius at imperdiet eu, euismod quis urna. Ut laoreet neque at orci fermentum, vel tincidunt augue placerat. Nam dictum tortor nisi, ut tempus massa porta vel. Nullam laoreet fringilla nulla, quis scelerisque enim eleifend nec. Nunc dapibus aliquam neque ac accumsan. Suspendisse ac odio ac ipsum eleifend tempus vel non sapien. Aliquam sed convallis massa, nec finibus dolor. Morbi condimentum ante vitae erat ultricies, in varius neque bibendum. Suspendisse eu eros at massa finibus vehicula sed a nulla. Maecenas sit amet ipsum odio. Proin diam neque, mattis at ligula eget, laoreet tincidunt diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla eu mi sit amet mi mattis condimentum vulputate et ligula. Curabitur eu elit dolor. Sed vel fringilla libero.
+
+****
 
 ## Wichtiges
 
