@@ -53,12 +53,13 @@ export const config = /*#__PURE__*/configuration({
       <style>
        {`
        html {font-size: 100%;}
+      img {width:100%;}
        body {line-height: 1.5;}
        body {text-shadow:0px 1px 1px rgb(255 255 255 / 80%);}
        body.dark {text-shadow:none;}
-       h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
-       h3 {line-height:1.1;letter-spacing:2px;}
-       h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
+       h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;text-align:center;}
+       h3 {line-height:1.1;letter-spacing:2px;text-align:center;}
+       h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;text-align:center;}
        h1::after {
         content: "_";
       }}
