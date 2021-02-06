@@ -54,7 +54,7 @@ export const config = /*#__PURE__*/configuration({
        {`
        html {font-size: 100%;}
        body {line-height: 1.8;}
-       img {max-width:50%;}
+       img {max-width:50% !important;}
        .darklight-0-0-1 {text-align:center;}
        h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
        h3 {line-height:1.1;letter-spacing:2px;}
