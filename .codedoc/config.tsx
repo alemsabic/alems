@@ -54,13 +54,11 @@ export const config = /*#__PURE__*/configuration({
        {`
        html {font-size: 100%;}
        body {line-height: 1.8;}
+       img {max-width:50%;}
        .darklight-0-0-1 {text-align:center;}
        h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
        h3 {line-height:1.1;letter-spacing:2px;}
        h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px; text-align:center;}
-       h1::after {
-        content: "_";
-      }}
        h1{font-size: calc(1.3rem + 3.6vw);}
        h1{font-size: 2.25rem;}
       @media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
@@ -96,7 +94,7 @@ export const config = /*#__PURE__*/configuration({
       body ol li:before, body sup a, body .footnotes-0-0-4 b, body h1::after {
         color: #3720ea;
       }
-      body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b, body.dark h1::after {
+      body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b {
         color:#c994c7;
       }
       ol ol {
