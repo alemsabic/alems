@@ -3,12 +3,12 @@ import { createTheme } from '@codedoc/core/transport';
 
 export const theme = /*#__PURE__*/createTheme({
   light: {
-    background: '#cccccc',           // --> CSS color string, background of the page
-    text: '#3720ea',            // --> CSS color string, color of text
-    primary: '#3720ea',             // --> CSS color string, primary color (for buttons, links, etc)
-    primaryContrast: '#cccccc',      // --> CSS color string, text color on primary background (e.g. buttons)
-    border: '#3720ea',               // --> CSS color string, border colors
-    code: '#3720ea',                  // --> CSS color string, in-text code color
+    background: '#ff0',           // --> CSS color string, background of the page
+    text: '#111111',            // --> CSS color string, color of text
+    primary: '#111111',             // --> CSS color string, primary color (for buttons, links, etc)
+    primaryContrast: '#ff0',      // --> CSS color string, text color on primary background (e.g. buttons)
+    border: '#111111',               // --> CSS color string, border colors
+    code: '#111111',                  // --> CSS color string, in-text code color
   },
   dark: {
     background: '#000000',           // --> CSS color string, background of the page

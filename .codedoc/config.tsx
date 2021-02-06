@@ -88,9 +88,13 @@ export const config = /*#__PURE__*/configuration({
       }
       ol li:before {
         position: absolute;
-        content: counters(cupcake, '.') ' ';
+        content: counters(cupcake, '.') '.';
         margin-left: -1.5em;
-        color: blue;
+        color: #3720ea;
+        font-weight:bold;
+      }
+      body ol li:before, body sup a, body .footnotes-0-0-4 b, body h1::after {
+        color: #3720ea;
       }
       body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b, body.dark h1::after {
         color:#c994c7;
@@ -107,7 +111,7 @@ export const config = /*#__PURE__*/configuration({
         font-size:0.75em;
       }
       body .toc-0-0-7 {
-        background: #ccc !important;
+        background: #ff0 !important;
       }
       body.dark .toc-0-0-7 {
         background: black !important;
@@ -116,7 +120,7 @@ export const config = /*#__PURE__*/configuration({
         border-color: #69f0ae !important;
       }
       body .toc-0-0-7 a.current, body .toc-0-0-7  {
-        border-color: #3720ea !important;
+        border-color: #111111 !important;
       }
       `}
       </style>,
