@@ -5,7 +5,7 @@
 >
 > > :InDark
 > >
-> > ![header](/logo.png)
+> > ![header](/logo-pink.png)
 
 
 

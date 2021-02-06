@@ -89,7 +89,10 @@ export const config = /*#__PURE__*/configuration({
         position: absolute;
         content: counters(cupcake, '.') ' ';
         margin-left: -1.5em;
-        font-weight: bold;
+        color: blue;
+      }
+      body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b, body.dark h1::after {
+        color:#c994c7;
       }
       ol ol {
         padding-left: 1.5em;
