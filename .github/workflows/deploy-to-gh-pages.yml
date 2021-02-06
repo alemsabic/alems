@@ -20,7 +20,7 @@ jobs:
           (PATH=$(npm bin):$PATH && codedoc build)
           # copy assets
           cp favicon.ico dist/
-          cp logo.png dist/
+          cp logo-pink.png dist/
           cp logo-dark.png dist/
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
