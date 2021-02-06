@@ -53,10 +53,11 @@ export const config = /*#__PURE__*/configuration({
       <style>
        {`
        html {font-size: 100%;}
-       body {line-height: 1.5;}
+       body {line-height: 1.8;}
+       .darklight-0-0-1 {text-align:center;}
        h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
        h3 {line-height:1.1;letter-spacing:2px;}
-       h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
+       h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px; text-align:center;}
        h1::after {
         content: "_";
       }}
@@ -99,7 +100,7 @@ export const config = /*#__PURE__*/configuration({
       }
       ol ol li:before {
         position: absolute;
-        content: "▸ ";
+        content: "⁃ ";
         margin-left: -1.5em;
       }
       sup {
