@@ -52,111 +52,109 @@ export const config = /*#__PURE__*/configuration({
     stylesheets: [
       <style>
        {`
-       html {font-size: 100%;}
-       body {line-height: 1.8;}
-       img {max-width:50% !important;}
-       .darklight-0-0-1 {text-align:center;}
-       h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
-       h3 {line-height:1.1;letter-spacing:2px;}
-       h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px; text-align:center;}
-       h1{font-size: calc(1.3rem + 3.6vw);}
-       h1{font-size: 2.25rem;}
-      @media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
-      @media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
-       h2 {font-size: calc(1.25rem + 1.3vw);}
-       h3 {font-size: calc(0.9rem + 0.7vw) !important;}
-       p, ol, ul {font-size: calc(0.95rem + 0.3vw);}
-       .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
-       .contentnav-0-0-10 {border-left: 1px solid !important;}
-      .header-0-0-5, .inside {display:none !important;}
-      .footnotes-0-0-4:before {
-        content: ""; 
-        display: block;
-        width: 10%;
-        padding-top: 12px;
-        border-top: 1px solid;
-      }
-      ol {
-        counter-reset: cupcake;
-        padding-left: 1.6em;
-        list-style: none;
-      }
-      ol li {
-        counter-increment: cupcake;
-      }
-      ol li strong {
-        font-weight: 400;
-        color: #3720ea;
-      }
-      body.dark ol li strong {
-        color: #c994c7;
-      }
-      ol ol li strong {
-        font-weight: 700;
-        color: #111111;
-      }
-      body.dark ol ol li strong {
-        color: #69f0ae;
-      }
-      ol li strong:before {
-        content: "‖ ";
-        color: #111;
-        padding-left: .4em;
-        white-space: nowrap;
-      }
-      body.dark ol li strong:before {
-        color: #69f0ae;
-      }
-      ol ol li strong:before {
-        content: "";
-        padding-left: 0;
-      }
-      ol li strong:after {
-        padding-right: .4em;
-        content: "";
-        white-space: nowrap;
-      }
-      ol ol li strong:after {
-        padding-right: 0;
-        content: "";
-      }
-      ol li:before {
-        position: absolute;
-        content: counters(cupcake, '.') '.';
-        margin-left: -1.5em;
-        color: #3720ea;
-      }
-      body ol li:before, body sup a, body .footnotes-0-0-4 b, body h1::after {
-        color: #3720ea;
-      }
-      body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b {
-        color:#c994c7;
-      }
-      ol ol {
-        padding-left: 1.5em;
-      }
-      ol ol li:before {
-        position: absolute;
-        content: "▪ ";
-        margin-left: -1.5em;
-      }
-      sup {
-        font-size:0.75em;
-      }
-
-
-      body .toc-0-0-7 {
-        background: #ff0 !important;
-      }
-      body.dark .toc-0-0-7 {
-        background: black !important;
-      }
-      body.dark .toc-0-0-7 a.current, body.dark .toc-0-0-7, body .toc-0-0-7 a.current, body .toc-0-0-7  {
-        border-color: #69f0ae !important;
-      }
-      body .toc-0-0-7 a.current, body .toc-0-0-7  {
-        border-color: #111111 !important;
-      }
+html {font-size: 100%;}
+body {line-height: 1.8;}
+img {max-width:50% !important;}
+.darklight-0-0-1 {text-align:center;}
+h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
+h3 {line-height:1.1;letter-spacing:2px;}
+h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px; text-align:center;}
+h1{font-size: calc(1.3rem + 3.6vw);}
+h1{font-size: 2.25rem;}
+@media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
+@media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
+h2 {font-size: calc(1.25rem + 1.3vw);}
+h3 {font-size: calc(0.9rem + 0.7vw) !important;}
+p, ol, ul {font-size: calc(0.95rem + 0.3vw);}
+.contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
+.contentnav-0-0-10 {border-left: 1px solid !important;}
+.header-0-0-5, .inside {display:none !important;}
+.footnotes-0-0-4:before {
+ content: ""; 
+ display: block;
+ width: 10%;
+ padding-top: 12px;
+ border-top: 1px solid;
+}
+ol {
+ counter-reset: cupcake;
+ padding-left: 1.6em;
+ list-style: none;
+}
+ol li {
+ counter-increment: cupcake;
+}
+ol li strong {
+ font-weight: 400;
+ color: #3720ea;
+}
+body.dark ol li strong {
+ color: #c994c7;
+}
+ol ol li strong {
+ font-weight: 700;
+ color: #111111;
+}
+body.dark ol ol li strong {
+ color: #69f0ae;
+}
+ol li strong:before {
+ content: "‖ ";
+ color: #111;
+ padding-left: .4em;
+ white-space: nowrap;
+}
+body.dark ol li strong:before {
+ color: #69f0ae;
+}
+ol ol li strong:before {
+ content: "";
+ padding-left: 0;
+}
+ol li strong:after {
+ padding-right: 0.4em;
+ content: "";
+ white-space: nowrap;
+}
+ol ol li strong:after {
+ padding-right: 0;
+ content: " ";
+}
+ol li:before {
+ position: absolute;
+ content: counters(cupcake, '.') '.';
+ margin-left: -1.5em;
+ color: #3720ea;
+}
+ol ol {
+ padding-left: 1.5em;
+}
+ol ol li:before {
+ position: absolute;
+ content: "▪ ";
+ margin-left: -1.5em;
+}
+sup {
+ font-size:0.75em;
+}
+body ol li:before, body sup a, body .footnotes-0-0-4 b {
+ color: #3720ea !important;
+}
+body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b {
+ color:#c994c7 !important;
+}
+body .toc-0-0-7 {
+ background: #ff0 !important;
+}
+body.dark .toc-0-0-7 {
+ background: black !important;
+}
+body.dark .toc-0-0-7 a.current, body.dark .toc-0-0-7, body .toc-0-0-7 a.current, body .toc-0-0-7  {
+ border-color: #69f0ae !important;
+}
+body .toc-0-0-7 a.current, body .toc-0-0-7  {
+ border-color: #111111 !important;
+}
       `}
       </style>,
     ]
