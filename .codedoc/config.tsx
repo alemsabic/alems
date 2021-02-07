@@ -84,12 +84,47 @@ export const config = /*#__PURE__*/configuration({
       ol li {
         counter-increment: cupcake;
       }
+      ol li strong {
+        font-weight: 400;
+        color: #3720ea;
+      }
+      body.dark ol li strong {
+        color: #c994c7;
+      }
+      ol ol li strong {
+        font-weight: 700;
+        color: #111111;
+      }
+      body.dark ol ol li strong {
+        color: #69f0ae;
+      }
+      ol li strong:before {
+        content: "‖ ";
+        color: #111;
+        padding-left: .4em;
+        white-space: nowrap;
+      }
+      body.dark ol li strong:before {
+        color: #69f0ae;
+      }
+      ol ol li strong:before {
+        content: "";
+        padding-left: 0;
+      }
+      ol li strong:after {
+        padding-right: .4em;
+        content: "";
+        white-space: nowrap;
+      }
+      ol ol li strong:after {
+        padding-right: 0;
+        content: "";
+      }
       ol li:before {
         position: absolute;
         content: counters(cupcake, '.') '.';
         margin-left: -1.5em;
         color: #3720ea;
-        font-weight:bold;
       }
       body ol li:before, body sup a, body .footnotes-0-0-4 b, body h1::after {
         color: #3720ea;
