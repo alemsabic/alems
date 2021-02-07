@@ -131,7 +131,7 @@ ol ol {
 }
 ol ol li:before {
  position: absolute;
- content: "▪ ";
+ content: "☆ ";
  margin-left: -1.5em;
 }
 sup {
