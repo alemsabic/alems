@@ -68,7 +68,7 @@ h3 {font-size: calc(0.9rem + 0.7vw) !important;}
 p, ol, ul {font-size: calc(0.95rem + 0.3vw);}
 .contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
 .contentnav-0-0-10 {border-left: 1px solid !important;}
-.header-0-0-5, .inside {display:none !important;}
+
 .footnotes-0-0-4:before {
  content: ""; 
  display: block;
@@ -174,10 +174,10 @@ misc: {
   github: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
     repo: 'ala',         // --> name of the repo on GitHub
-    // action: 'Issue',            // --> action of the GitHub button
-    // count: true,                // --> whether to show the `count` on the GitHub button
+    action: 'Issue',            // --> action of the GitHub button
+    //count: true,                // --> whether to show the `count` on the GitHub button
     //large: true,                // --> whether to show a `large` GitHub button
-    // standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
+    standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
   },
   //...
 },
