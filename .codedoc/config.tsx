@@ -74,7 +74,7 @@ export const config = /*#__PURE__*/configuration({
         display: block;
         width: 10%;
         padding-top: 12px;
-        border-top: 2px solid;
+        border-top: 1px solid;
       }
       ol {
         counter-reset: cupcake;
@@ -143,6 +143,8 @@ export const config = /*#__PURE__*/configuration({
       sup {
         font-size:0.75em;
       }
+
+
       body .toc-0-0-7 {
         background: #ff0 !important;
       }
