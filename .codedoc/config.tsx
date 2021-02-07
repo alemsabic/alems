@@ -137,7 +137,7 @@ export const config = /*#__PURE__*/configuration({
       }
       ol ol li:before {
         position: absolute;
-        content: "⁃ ";
+        content: "▪ ";
         margin-left: -1.5em;
       }
       sup {
