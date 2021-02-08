@@ -66,8 +66,10 @@ h1{font-size: 2.25rem;}
 h2 {font-size: calc(1.25rem + 1.3vw);}
 h3 {font-size: calc(0.9rem + 0.7vw) !important;}
 p, ol, ul {font-size: calc(0.95rem + 0.3vw);}
-.contentnav-0-0-10 {font-size: calc(0.7rem + 0.3vw) !important;}
-.contentnav-0-0-10 {border-left: 1px solid !important;}
+.contentnav-0-0-11 {font-size: calc(0.7rem + 0.3vw) !important;}
+.contentnav-0-0-11 {border-left: 1px solid #111111 !important;}
+body.dark .contentnav-0-0-11 {border-left: 1px solid #69f0ae !important;}
+
 
 .footnotes-0-0-4:before {
  content: ""; 
@@ -143,16 +145,16 @@ body ol li:before, body sup a, body .footnotes-0-0-4 b {
 body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b {
  color:#c994c7 !important;
 }
-body .toc-0-0-7 {
+body .toc-0-0-8 {
  background: #ff0 !important;
 }
-body.dark .toc-0-0-7 {
- background: black !important;
+body.dark .toc-0-0-8 {
+ background: #111111 !important;
 }
-body.dark .toc-0-0-7 a.current, body.dark .toc-0-0-7, body .toc-0-0-7 a.current, body .toc-0-0-7  {
+body.dark .toc-0-0-8 a.current, body.dark .toc-0-0-8, body .toc-0-0-8 a.current, body .toc-0-0-8  {
  border-color: #69f0ae !important;
 }
-body .toc-0-0-7 a.current, body .toc-0-0-7  {
+body .toc-0-0-8 a.current, body .toc-0-0-8  {
  border-color: #111111 !important;
 }
       `}
@@ -175,11 +177,13 @@ misc: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
     repo: 'ala',         // --> name of the repo on GitHub
     action: 'Issue',            // --> action of the GitHub button
-    //count: true,                // --> whether to show the `count` on the GitHub button
+    count: true,                // --> whether to show the `count` on the GitHub button
     //large: true,                // --> whether to show a `large` GitHub button
     standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
   },
-  //...
+  gitter: {
+    room: 'johndoe/my-project'  // --> id of the Gitter room for the project
+  }
 },
 
 
