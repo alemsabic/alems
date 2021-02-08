@@ -69,8 +69,6 @@ p, ol, ul {font-size: calc(0.95rem + 0.3vw);}
 .contentnav-0-0-11 {font-size: calc(0.7rem + 0.3vw) !important;}
 .contentnav-0-0-11 {border-left: 1px solid #111111 !important;}
 body.dark .contentnav-0-0-11 {border-left: 1px solid #69f0ae !important;}
-
-
 .footnotes-0-0-4:before {
  content: ""; 
  display: block;
