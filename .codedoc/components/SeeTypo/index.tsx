@@ -7,7 +7,7 @@ export function SeeTypo(
   _: any,
   renderer: RendererLike<any, any>,
 ) {
-  const hrefPrefix = "https://github.com/alemsabic/alemsorg/blob/master/docs/md"
+  const hrefPrefix = "https://github.com/alemsabic/alemsorg/blob/edit/master/docs/md"
   const pathname = window.location.pathname
   const hrefPostfix = ".md"
   const href = hrefPrefix + pathname + hrefPostfix
