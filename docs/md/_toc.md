@@ -2,7 +2,7 @@
 
 > :Collapse label=Kako Sarajevo priča
 >
-> [Uvod](/docs/sarajevski-zargon)
+> [Sarajevski žargon](/docs/sarajevski-zargon)
 > > :Collapse label=A-D
 > >
 > > [avlijaner & avionka](/docs/sarajevski-zargon/a-d/avlijaner-avionka)

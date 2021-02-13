@@ -1,10 +1,19 @@
 
-import { configuration } from '@codedoc/core';
+import { configuration,
+  DefaultMarkdownCustomComponents
+ } from '@codedoc/core';
 
 import { theme } from './theme';
 
+
+import { SeeTypo$ } from './components/SeeTypo';
+
+
+
+
 import { StaticRenderer } from '@connectv/sdh';    // --> import a static renderer for easily creating the script elements
 import register from 'jsdom-global';               // --> also lets create a global document object for that purpose
+
 
 const renderer = new StaticRenderer();             // --> initialize renderer
 register();                                        // --> register global document object
@@ -68,5 +77,11 @@ misc: {
     room: 'johndoe/my-project'  // --> id of the Gitter room for the project
   }
 },
+markdown: {
+  customComponents: {
+    ...DefaultMarkdownCustomComponents,
+    SeeTypo$
+  }
+}
 
 });
