@@ -7,11 +7,11 @@ export function SeeTypo(
   _: any,
   renderer: RendererLike<any, any>,
 ) {
-  const hrefPrefix = "https://github.com/alemsabic/alemsorg/edit/master/docs/md"
+  const hrefPrefix = "https://github.com/alemsabic/alemsorg/blob/master/docs/md"
   const pathname = window.location.pathname
   const hrefPostfix = ".md"
   const href = hrefPrefix + pathname + hrefPostfix
-  return <p>See a typo? You can fix it by editing <a href={href}>this file</a> and then sending me a <a href="https://github.com/alemsabic/alemsorg/compare">pull request</a>.</p>
+  return <div style="text-align: right"><a class="button-0-0-12" href={href}>Briši greške</a></div>
 }
 
 export const SeeTypo$ = transport(SeeTypo);
