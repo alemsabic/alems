@@ -5,7 +5,7 @@ import { configuration,
 
 import { theme } from './theme';
 
-
+import { Utterances } from './components/utterances';
 import { SeeTypo$ } from './components/SeeTypo';
 
 
@@ -78,6 +78,7 @@ misc: {
 markdown: {
   customComponents: {
     ...DefaultMarkdownCustomComponents,
+    Utterances,
     SeeTypo$
   }
 }
