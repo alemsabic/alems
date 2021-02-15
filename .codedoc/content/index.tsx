@@ -46,16 +46,19 @@ h1{font-size: 2.25rem;}
 @media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
 h2 {font-size: calc(1.25rem + 1.3vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
-.content-0-0-9 p, .text, .container p, .container ol, .container ul {font-size: calc(0.95rem + 0.3vw);}
+.content-0-0-7 p, .text, .container p, .container ol, .container ul {font-size: calc(0.95rem + 0.3vw);}
 `}
 </style>
 
 <style>
 {`
-.collapse-0-0-5 > .content {border-left:1px solid rgba(17,17,17,0.2);}
-body.dark .collapse-0-0-5 > .content {border-left:1px solid rgba(105,240,174,0.2);}
-.contentnav-0-0-11 {font-size: calc(0.7rem + 0.3vw);}
-.footnotes-0-0-4:before {
+.collapse-0-0-3 > .content {border-left:1px solid rgba(17,17,17,0.2);}
+body.dark .collapse-0-0-3 > .content {border-left:1px solid rgba(105,240,174,0.2);}
+.contentnav-0-0-9 {
+  font-size: calc(0.7rem + 0.3vw);
+  border-left: 1px solid;
+}
+.footnotes-0-0-12:before {
  content: ""; 
  display: block;
  width: 10%;
@@ -123,10 +126,10 @@ ol ol li:before {
 sup {
  font-size:0.75em;
 }
-body ol li:before, body sup a, body .footnotes-0-0-4 b {
+body ol li:before, body sup a, body .footnotes-0-0-12 b {
  color: #3720ea;
 }
-body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-4 b {
+body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-12 b {
  color:#c994c7;
 }
 `}
