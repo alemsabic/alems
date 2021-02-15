@@ -24,11 +24,10 @@ export const config = /*#__PURE__*/configuration({
     title: {
       base: 'A. Šabić',
     },
-
-    meta: {                              // --> meta tags of each page
+      meta: {                              // --> meta tags of each page
       subject: 'Sarajevski žargon',           // --> the subject meta tag for each page
       description: 'Stranica Alema Šabića. Uz pomoć nekih drugih budala.',          // --> description meta tag for each page
-      keywords: [],                      // --> a list of SEO keywords
+      keywords: ['test','test und', 'text drei'],                        
       themeColor: '#111111',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
@@ -54,8 +53,7 @@ export const config = /*#__PURE__*/configuration({
         outline:                         // --> name of the outline icon font
           'Material Icons Outlined'
       }
-    },  
-    stylesheets: []
+    },
   },
 
 dest: {
