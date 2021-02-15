@@ -66,9 +66,9 @@ misc: {
   github: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
     repo: 'alemsorg',         // --> name of the repo on GitHub
-    action: 'Issue',            // --> action of the GitHub button
+    action: 'Star',            // --> action of the GitHub button
     count: true,                // --> whether to show the `count` on the GitHub button
-    large: true,                // --> whether to show a `large` GitHub button
+    //large: true,                // --> whether to show a `large` GitHub button
     standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
   },
   gitter: {
