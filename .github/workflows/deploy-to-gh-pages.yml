@@ -24,7 +24,12 @@ jobs:
           cp favicon-32x32.png dist/
           cp android-chrome-192x192.png dist/
           cp android-chrome-384x384.png dist/
+          cp browserconfig.xml dist/
           cp mstile-150x150.png dist/
+          cp apple-touch-icon.png dist/
+          cp safari-pinned-tab.svg dist/
+          cp site.webmanifest dist/
+          cp utterances.json dist/
           cp README.md dist/
           cp logo-pink.png dist/
           cp logo-dark.png dist/

@@ -61,7 +61,6 @@ dest: {
   html: 'dist',
   assets: 'dist',
 },
-
 misc: {
   github: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
