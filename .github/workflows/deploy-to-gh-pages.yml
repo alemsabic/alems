@@ -19,6 +19,7 @@ jobs:
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
           # copy assets
+          cp images/ dist/
           cp favicon.ico dist/
           cp favicon-16x16.png dist/
           cp favicon-32x32.png dist/
