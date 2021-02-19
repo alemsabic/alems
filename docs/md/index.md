@@ -1,8 +1,4 @@
-<style>
-
-.container {padding-top: 96px !important;}
-
-</style>
+<style>.container {padding-top: 96px !important;}</style>
 
 > :DarkLight
 > > :InLight

@@ -11,7 +11,7 @@ export function SeeTypo(
   const pathname = window.location.pathname
   const hrefPostfix = ".md"
   const href = hrefPrefix + pathname + hrefPostfix
-  return <div style="text-align: right"><a class="button-0-0-2 icon icon-font" href={href}>create</a></div>
+  return <div style="text-align: right"><a class="button-0-0-17 icon icon-font" href={href}>create</a></div>
 }
 
 export const SeeTypo$ = transport(SeeTypo);

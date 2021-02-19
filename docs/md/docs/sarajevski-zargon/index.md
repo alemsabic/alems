@@ -1,10 +1,5 @@
 
-<style>
-
-.container {padding-top: 96px !important;}
-
-</style>
-
+<style>.container {padding-top: 96px !important;}</style>
 
 
 # Govor grada Sarajeva
