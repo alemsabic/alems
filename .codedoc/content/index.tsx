@@ -33,18 +33,37 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 
 <style>
 {`
+html {font-size: 100%;}
 body {line-height: 1.8;}
+h2 {line-height:1.1;}
+h3 {line-height:1.1;}
+h1 {line-height:1.1;}
+h1{font-size: calc(1.3rem + 1.8vw);}
+h2 {font-size: calc(1.15rem + 1.2vw);}
+h3 {font-size: calc(0.9rem + 0.7vw);}
+.container .text-0-0-4 p, div.source-0-0-5, .content-0-0-13 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
+.container blockquote p {font-size: calc(0.85rem + 0.2vw);}
+.contentnav-0-0-15 {font-size: calc(0.7rem + 0.3vw);}
+sup {font-size:0.75em;}
+.inside .icon-font {font-size:36px;}
+a.icon-font {
+  opacity: 0.35;
+}
+a.icon-font:hover {
+  opacity: 1;
+  text-decoration: none !important;
+}
 `}
 </style>
 
 <style>
 {`
-.collapse-0-0-3 > .content {border-left:1px solid rgba(17,17,17,0.2);}
-body.dark .collapse-0-0-3 > .content {border-left:1px solid rgba(105,240,174,0.2);}
+.collapse-0-0-9 > .content {border-left:1px solid rgba(17,17,17,0.2);}
+body.dark .collapse-0-0-9 > .content {border-left:1px solid rgba(105,240,174,0.2);}
 .contentnav-0-0-9 {
   border-left: 1px solid;
 }
-.footnotes-0-0-12:before {
+.footnotes-0-0-16:before {
  content: ""; 
  display: block;
  width: 10%;
@@ -109,10 +128,10 @@ ol ol li:before {
  content: "☆ ";
  margin-left: -1.5em;
 }
-body ol li:before, body sup a, body .footnotes-0-0-12 b {
+body ol li:before, body sup a, body .footnotes-0-0-16 b {
  color: #3720ea;
 }
-body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-12 b {
+body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-16 b {
  color:#c994c7;
 }
 `}

@@ -1,19 +1,34 @@
+<style>
 
+.container {padding-top: 96px !important;}
 
+</style>
 
-
-# Alems.org
-
-> :Quote from=Santoka Taneda
+> :DarkLight
+> > :InLight
+> > 
+> > > :Center
+> > >
+> > > ![header](/logo-dark.png)
 >
-> Mokar od jutarnje rose / Idem kuda hoću.
+> > :InDark
+> >
+> > > :Center
+> > >
+> > > ![header](/logo-pink.png)
+
+
+> :Quote from=– Robin Fucking Hood
+>
+> Surge et resurge dum agni leones fiant. / Rise and rise again until lambs become lions. / Erhebt Euch, immer und immer wieder, bis Lämmer zu Löwen werden.
+
 
 Integer velit dolor, stranica __Alema Šabića__ at blandit id, euismod at odio. Pellentesque id nibh eget felis blandit mattis. Integer sagittis augue quis mi lacinia vulputate. 
 
 Cras et ultricies elit, id fringilla diam. Morbi sed blandit ipsum. Curabitur ac diam quis massa condimentum elementum eleifend et magna. Proin venenatis lorem bibendum lectus tempus efficitur. Nullam ac dapibus est, quis vulputate tellus.
 
 
-> [info](:Icon) **ALPHA-STAGE NOTICE**
+> **THINK!**
 >
 > Note that we are in alpha stage, so creating accounts and logging in is not
 > open for public yet. If you are invited to the alpha-stage, you must have
@@ -22,7 +37,7 @@ Cras et ultricies elit, id fringilla diam. Morbi sed blandit ipsum. Curabitur ac
 > when your account is created.
 
 
-Whatever
+### Kommentare
 
 > :DarkLight
 > > :InLight
