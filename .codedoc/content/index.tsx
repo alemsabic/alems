@@ -37,7 +37,7 @@ html {font-size: 100%;}
 body {line-height: 1.8;}
 h2 {line-height:1.1;}
 h3 {line-height:1.1;}
-h1 {line-height:1.1;}
+h1 {line-height:1.1; text-transform:uppercase;}
 h1{font-size: calc(1.3rem + 1.8vw);}
 h2 {font-size: calc(1.15rem + 1.2vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
