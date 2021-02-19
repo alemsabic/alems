@@ -18,6 +18,16 @@ export const theme = /*#__PURE__*/createTheme({
     border: '#69f0ae',      // --> CSS color string, border colors
     code: '#69f0ae',                  // --> CSS color string, in-text code color
   },
+  quote: {
+    dark: {
+      background: '#142850',
+      border: '#27496d',
+    },
+    light: {
+      background: '#f5f5f5',
+      text: '#757575',
+    },
+  },
   toc: {                                 
     light: {
       background: '#ff0',             // --> CSS color string, background of ToC

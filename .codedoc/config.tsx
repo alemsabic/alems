@@ -8,7 +8,7 @@ import { theme } from './theme';
 import { Utterances } from './components/utterances';
 import { SeeTypo$ } from './components/SeeTypo';
 
-
+import { codingBlog } from '@codedoc/coding-blog-plugin';  // --> import the plugin
 
 
 import { StaticRenderer } from '@connectv/sdh';    // --> import a static renderer for easily creating the script elements
@@ -28,8 +28,8 @@ export const config = /*#__PURE__*/configuration({
       meta: {                              // --> meta tags of each page
       subject: 'Sarajevski žargon',           // --> the subject meta tag for each page
       description: 'Stranica Alema Šabića. Uz pomoć nekih drugih budala.',          // --> description meta tag for each page
-      keywords: ['test','test und', 'text drei'],                        
-      themeColor: '#111111',             // --> the browser bar color of your docs
+      keywords: ['test','test', 'text'],                        
+      themeColor: '#000000',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
     },
@@ -76,7 +76,7 @@ misc: {
   github: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
     repo: 'alemsorg',         // --> name of the repo on GitHub
-    action: 'Star',            // --> action of the GitHub button
+    action: 'Issue',            // --> action of the GitHub button
     count: true,                // --> whether to show the `count` on the GitHub button
     //large: true,                // --> whether to show a `large` GitHub button
     standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
@@ -91,6 +91,10 @@ markdown: {
     Utterances,
     SeeTypo$
   }
-}
+},
+
+plugins: [
+  codingBlog() 
+],
 
 });

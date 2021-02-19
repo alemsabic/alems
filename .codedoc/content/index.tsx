@@ -33,20 +33,7 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 
 <style>
 {`
-html {font-size: 100%;}
 body {line-height: 1.8;}
-img {max-width:50%;}
-.darklight-0-0-1 {text-align:center;}
-h2 {line-height:1.1;text-transform: uppercase;letter-spacing:2px;}
-h3 {line-height:1.1;letter-spacing:2px;}
-h1 {line-height:1.1;text-transform: uppercase;letter-spacing:2px; text-align:center;}
-h1{font-size: calc(1.3rem + 3.6vw);}
-h1{font-size: 2.25rem;}
-@media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
-@media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
-h2 {font-size: calc(1.25rem + 1.3vw);}
-h3 {font-size: calc(0.9rem + 0.7vw);}
-.content-0-0-7 p, .text, .container p, .container ol, .container ul {font-size: calc(0.95rem + 0.3vw);}
 `}
 </style>
 
@@ -55,7 +42,6 @@ h3 {font-size: calc(0.9rem + 0.7vw);}
 .collapse-0-0-3 > .content {border-left:1px solid rgba(17,17,17,0.2);}
 body.dark .collapse-0-0-3 > .content {border-left:1px solid rgba(105,240,174,0.2);}
 .contentnav-0-0-9 {
-  font-size: calc(0.7rem + 0.3vw);
   border-left: 1px solid;
 }
 .footnotes-0-0-12:before {
@@ -122,9 +108,6 @@ ol ol li:before {
  position: absolute;
  content: "☆ ";
  margin-left: -1.5em;
-}
-sup {
- font-size:0.75em;
 }
 body ol li:before, body sup a, body .footnotes-0-0-12 b {
  color: #3720ea;
