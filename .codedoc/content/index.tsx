@@ -41,15 +41,15 @@ h1 {line-height:1.1; text-transform:uppercase;}
 h1{font-size: calc(1.3rem + 1.8vw);}
 h2 {font-size: calc(1.15rem + 1.2vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
-.container .text-0-0-4 p, div.source-0-0-5, .content-0-0-13 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
+.container .text-0-0-4 p, div.source-0-0-14, .content-0-0-7 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
 .container blockquote p {font-size: calc(0.85rem + 0.2vw);}
-.contentnav-0-0-15 {font-size: calc(0.7rem + 0.3vw);}
+.contentnav-0-0-9 {font-size: calc(0.7rem + 0.3vw);}
 sup {font-size:0.75em;}
-.inside .icon-font {font-size:36px;}
-a.icon-font {
+.inside a.icon-font {font-size:36px;}
+.inside a.icon-font {
   opacity: 0.35;
 }
-a.icon-font:hover {
+.inside a.icon-font:hover {
   opacity: 1;
   text-decoration: none !important;
 }
@@ -58,12 +58,12 @@ a.icon-font:hover {
 
 <style>
 {`
-.collapse-0-0-9 > .content {border-left:1px solid rgba(17,17,17,0.2);}
-body.dark .collapse-0-0-9 > .content {border-left:1px solid rgba(105,240,174,0.2);}
+.collapse-0-0-3 > .content {border-left:1px solid rgba(17,17,17,0.2);}
+body.dark .collapse-0-0-3 > .content {border-left:1px solid rgba(255,255,255,0.2);}
 .contentnav-0-0-9 {
   border-left: 1px solid;
 }
-.footnotes-0-0-16:before {
+.footnotes-0-0-15:before {
  content: ""; 
  display: block;
  width: 10%;
@@ -83,23 +83,23 @@ ol li strong {
  color: #3720ea;
 }
 body.dark ol li strong {
- color: #c994c7;
+ color: #888;
 }
 ol ol li strong {
  font-weight: 700;
  color: #111111;
 }
 body.dark ol ol li strong {
- color: #69f0ae;
+ color: #eee;
 }
 ol li strong:before {
- content: "‖ ";
+ content: "⟩ ";
  color: #111;
  padding-left: .4em;
  white-space: nowrap;
 }
 body.dark ol li strong:before {
- color: #69f0ae;
+ color: #eee;
 }
 ol ol li strong:before {
  content: "";
@@ -125,14 +125,14 @@ ol ol {
 }
 ol ol li:before {
  position: absolute;
- content: "☆ ";
+ content: "▸ ";
  margin-left: -1.5em;
 }
-body ol li:before, body sup a, body .footnotes-0-0-16 b {
+body ol li:before, body sup a, body .footnotes-0-0-15 b {
  color: #3720ea;
 }
-body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-16 b {
- color:#c994c7;
+body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-15 b {
+ color:#888;
 }
 `}
 </style>

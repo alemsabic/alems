@@ -32,7 +32,7 @@ or irrelevant.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue.
 
 > :ToCPrevNext
 
-
+### Komentari
 
 > :DarkLight
 > > :InLight
@@ -41,4 +41,4 @@ or irrelevant.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue.
 >
 > > :InDark
 > >
-> > > :Utterances theme=icy-dark
+> > > :Utterances theme=github-dark

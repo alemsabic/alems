@@ -16,7 +16,7 @@
 
 > :ToCPrevNext
 
-### Comments
+### Komentari
 
 > :DarkLight
 > > :InLight
@@ -25,4 +25,4 @@
 >
 > > :InDark
 > >
-> > > :Utterances theme=icy-dark
+> > > :Utterances theme=github-dark
