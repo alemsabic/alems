@@ -2,8 +2,7 @@
 <style>.container {padding-top: 96px !important;}</style>
 
 
-# Govor grada Sarajeva
-
+# Tako ti je, mala moja, kad priča Bosanac
 
 > :Quote from=Santoka Taneda
 >
@@ -16,10 +15,7 @@ or irrelevant.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue.
 
 > :Footnotes
 
-
 ****
-
-## Tako ti je, mala moja, kad priča Bosanac
 
 HTML, the predominant markup language for web pages, has no mechanism for marking up notes. Despite a number of different proposals over the years, and repeated pleas from the user base, the working group has been unable to reach a consensus on it. Because of this, MediaWiki, for example, has had to introduce its own <ref></ref> tag for citing references in notes, an idea which has since also been implemented for generic use by the Nelson HTML preprocessor.["Nelson HTML Preprocessor". Retrieved 2009-06-09.](:Footnote)
 
