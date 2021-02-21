@@ -32,11 +32,11 @@ export const theme = /*#__PURE__*/createTheme({
   },
   toc: {                                 
     light: {
-      background: '#ff0',             // --> CSS color string, background of ToC
+      background: 'rgba(255,255,0,0.4)',             // --> CSS color string, background of ToC
       border: 'rgba(17,17,17,0.2)',                 // --> CSS color string, border of ToC
     },
     dark: {
-      background: '#000000',             // --> CSS color string, background of ToC
+      background: 'rgba(0,0,0,0.4)',             // --> CSS color string, background of ToC
       border: 'rgba(255,255,255,0.2)',                // --> CSS color string, border of ToC
     },             
   },
