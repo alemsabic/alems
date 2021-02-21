@@ -63,6 +63,12 @@ body.dark .collapse-0-0-3 > .content {border-left:1px solid rgba(255,255,255,0.2
 .contentnav-0-0-9 {
   border-left: 1px solid;
 }
+body.dark h1, body.dark h2 {
+  color: white;
+}
+body.dark img {
+  opacity: 0.7;
+}
 .footnotes-0-0-15:before {
  content: ""; 
  display: block;
@@ -83,14 +89,14 @@ ol li strong {
  color: #3720ea;
 }
 body.dark ol li strong {
- color: #888;
+ color: #fff;
 }
 ol ol li strong {
  font-weight: 700;
  color: #111111;
 }
 body.dark ol ol li strong {
- color: #eee;
+ color: #bbb;
 }
 ol li strong:before {
  content: "⟩ ";
@@ -99,7 +105,7 @@ ol li strong:before {
  white-space: nowrap;
 }
 body.dark ol li strong:before {
- color: #eee;
+ color: #bbb;
 }
 ol ol li strong:before {
  content: "";
@@ -132,7 +138,7 @@ body ol li:before, body sup a, body .footnotes-0-0-15 b {
  color: #3720ea;
 }
 body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-15 b {
- color:#888;
+ color:#fff;
 }
 `}
 </style>
