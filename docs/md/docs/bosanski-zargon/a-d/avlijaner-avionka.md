@@ -14,9 +14,9 @@
 
 > :SeeTypo$
 
-> :ToCPrevNext
+> :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
-### Komentari
+### Komentariši
 
 > :DarkLight
 > > :InLight

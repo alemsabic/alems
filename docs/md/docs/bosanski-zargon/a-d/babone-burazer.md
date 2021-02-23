@@ -1,7 +1,14 @@
 <style>.container {padding-top: 96px !important;}</style>
 
+> :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
+### Komentariši
 
-> :ToCPrevNext
+> :DarkLight
+> > :InLight
+> >
+> > > :Utterances theme=github-light
+>
+> > :InDark
+> >
+> > > :Utterances theme=github-dark

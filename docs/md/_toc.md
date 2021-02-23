@@ -1,8 +1,8 @@
-[Alems.org](/)
+[ALEMS.ORG](/)
 
-> :Collapse label=Kako Bosna priča
+> :Collapse label=Bosanski žargon
 >
-> [Bosanski žargon](/docs/bosanski-zargon)
+> [NE KONTAM — Tako ti je, mala moja, kad priča Bosanac](/docs/bosanski-zargon)
 > > :Collapse label=A-D
 > >
 > > [avlijaner & avionka](/docs/bosanski-zargon/a-d/avlijaner-avionka)
@@ -48,4 +48,46 @@
 > > [zafri & zakon](/docs/bosanski-zargon/ss-zz/zafri-zakon)
 > > [žaba & žiletuša](/docs/bosanski-zargon/ss-zz/zaba-ziletusa)
 
-
+> :Collapse label=Deutsche Umgangssprache
+>
+> [DIE KLEINE SAU — Wie Deutschland (wirklich) spricht](/docs/deutsche-umgangssprache)
+> > :Collapse label=A-E
+> >
+> > [Arschwasser & Asphaltlutscher](/docs/deutsche-umgangssprache/a-e/arschwasser-asphaltlutscher)
+> > [Bärenfalle & Bügelbrett](/docs/deutsche-umgangssprache/a-e/baerenfalle-buegelbrett)
+> > [Chefmatratze & Cockschelle](/docs/deutsche-umgangssprache/a-e/chefmatratze-cockschelle)
+> > [Dachhase & Dramaqueen](/docs/deutsche-umgangssprache/a-e/dachhase-dramaqueen)
+> > [Edelratte & Egospritze](/docs/deutsche-umgangssprache/a-e/edelratte-egospritze)
+>
+> > :Collapse label=F-J
+> >
+> > [Fischbrötchen & Festplatte](/docs/deutsche-umgangssprache/f-j/fischbroetchen-festplatte)
+> > [Gesichtsfünf & Genickfick](/docs/deutsche-umgangssprache/f-j/gesichtsfuenf-genickfick)
+> > [Hodenzecke & Hintertür](/docs/deutsche-umgangssprache/f-j/hodenzecke-hintertuer)
+> > [Ische & Igelschnäuzchen](/docs/deutsche-umgangssprache/f-j/ische-igelschnaeuzchen)
+> > [Jay & jamsen](/docs/deutsche-umgangssprache/f-j/jay-jamsen)
+>
+> > :Collapse label=K-O
+> >
+> > [Kopfkino & Kissenbeißer](/docs/deutsche-umgangssprache/k-o/kopfkino-kissenbeisser)
+> > [Lungenbrötchen & Liebesknochen](/docs/deutsche-umgangssprache/k-o/lungenbroetchen-liebesknochen)
+> > [Maurerbibel & Mäusefäuste](/docs/deutsche-umgangssprache/k-o/maurerbibel-maeusefaeuste)
+> > [Nuttenstiefellecker & Nuttendiesel](/docs/deutsche-umgangssprache/k-o/nuttenstiefellecker-nuttendiesel)
+> > [Ofenoffice & Offliner](/docs/deutsche-umgangssprache/k-o/ofenoffice-offliner)
+>
+> > :Collapse label=P-T
+> >
+> > [poppen & pimpern](/docs/deutsche-umgangssprache/p-t/poppen-pimpern)
+> > [Qui­ckie & quar­zen](/docs/deutsche-umgangssprache/p-t/quickie-quarzen)
+> > [Resteficken & rasieren](/docs/deutsche-umgangssprache/p-t/resteficken-rasieren)
+> > [Sing-Sing & Sandaffe](/docs/deutsche-umgangssprache/p-t/sing-sing-sandaffe)
+> > [Taschendrache & Tamponlutscher](/docs/deutsche-umgangssprache/p-t/taschendrache-tamponlutscher)
+>
+> > :Collapse label=U-Z
+> >
+> > [Universaldilettant & Urinsteinlutscher](/docs/deutsche-umgangssprache/u-z/universaldilettant-urinsteinlutscher)
+> > [verballert & verticken](/docs/deutsche-umgangssprache/u-z/verballert-verticken)
+> > [Waldapotheker & Wanderziege](/docs/deutsche-umgangssprache/u-z/waldapotheker-wanderziege)
+> > [XY ungelöst & X-Bein](/docs/deutsche-umgangssprache/u-z/xy-ungeloest-x-bein)
+> > [YODO & Youporner](/docs/deutsche-umgangssprache/u-z/yodo-youporner)
+> > [Zwergadapter & Zimmermannstraum](/docs/deutsche-umgangssprache/u-z/zwergadapter-zimmermannstraum)
