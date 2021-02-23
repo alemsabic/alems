@@ -35,7 +35,7 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 {`
 html {font-size: 100%;}
 body {line-height: 1.8;}
-h2 {line-height:1.3; text-transform:uppercase; letter-spacing:10px;}
+h2 {line-height:1.3; text-transform:uppercase;}
 h3 {line-height:1.3;}
 h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
 h1{font-size: calc(1.3rem + 1.8vw);}
@@ -43,7 +43,7 @@ h2 {font-size: calc(1.15rem + 1.2vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
 .container .text-0-0-4 p, div.source-0-0-14, .content-0-0-7 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
 .container blockquote p {font-size: calc(0.85rem + 0.2vw);}
-.contentnav-0-0-9 {font-size: calc(0.7rem + 0.3vw);}
+.contentnav-0-0-9, .footnotes-0-0-13 {font-size: calc(0.7rem + 0.2vw);}
 sup {font-size:0.75em;}
 .inside a.icon-font {font-size:36px;}
 .inside a.icon-font {
@@ -69,7 +69,7 @@ body.dark h1, body.dark h2 {
 body.dark img {
   opacity: 0.7;
 }
-.footnotes-0-0-15:before {
+.footnotes-0-0-13:before {
  content: ""; 
  display: block;
  width: 10%;
@@ -134,10 +134,10 @@ ol ol li:before {
  content: "▸ ";
  margin-left: -1.5em;
 }
-body ol li:before, body sup a, body .footnotes-0-0-15 b {
+body ol li:before, body sup a, body .footnotes-0-0-13 b {
  color: #3720ea;
 }
-body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-15 b {
+body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-13 b {
  color:#fff;
 }
 `}

@@ -90,4 +90,4 @@
 > > [Waldapotheker & Wanderziege](/docs/deutsche-umgangssprache/u-z/waldapotheker-wanderziege)
 > > [XY ungelöst & X-Bein](/docs/deutsche-umgangssprache/u-z/xy-ungeloest-x-bein)
 > > [YODO & Youporner](/docs/deutsche-umgangssprache/u-z/yodo-youporner)
-> > [Zwergadapter & Zimmermannstraum](/docs/deutsche-umgangssprache/u-z/zwergadapter-zimmermannstraum)
+> > [Zwergadapter & Zimmermannstraum](/docs/deutsche-umgangssprache/u-z/zwergadapter-zehentanga)
