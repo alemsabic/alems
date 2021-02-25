@@ -1,6 +1,8 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 # Arschwasser & Asphaltluscher
+
+> :Space
 
 
 > :ToCPrevNext prev-label=Vorherige, next-label=Nächste

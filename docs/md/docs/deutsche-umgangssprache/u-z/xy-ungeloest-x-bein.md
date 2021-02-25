@@ -1,7 +1,11 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 
 # xy-ungelöst & X-Bein
+
+> :Space
+
+
 
 > :ToCPrevNext prev-label=Vorherige, next-label=Nächste
 

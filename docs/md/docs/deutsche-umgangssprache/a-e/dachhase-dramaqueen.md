@@ -1,6 +1,9 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 # Dachhase & Dramaqueen
+
+> :Space
+
 
 > :ToCPrevNext prev-label=Vorherige, next-label=Nächste
 

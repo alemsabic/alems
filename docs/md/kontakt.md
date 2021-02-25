@@ -1,6 +1,8 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 # Kontakt
+
+> :Space
 
 - [Telegram](https://t.me/alawasgeht) ( [textsms](:Icon) )
 - [0162 90 55555](tel:+491629055555) ( [phone](:Icon) )

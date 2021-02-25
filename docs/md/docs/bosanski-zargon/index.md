@@ -1,6 +1,6 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
-# Bosanski žargon
+<h1>Bosanski žargon</h1>
 
 > :DarkLight
 > > :InLight
@@ -22,22 +22,10 @@
 
 > :Space
 
-HTML, the predominant markup language for web pages, has no mechanism for marking up notes. Despite a number of different proposals over the years, and repeated pleas from the user base, the working group has been unable to reach a consensus on it. Because of this, MediaWiki, for example, has had to introduce its own <ref></ref> tag for citing references in notes, an idea which has since also been implemented for generic use by the Nelson HTML preprocessor.["Nelson HTML Preprocessor". Retrieved 2009-06-09.](:Footnote)
+__Nunc eget ante tristique__, interdum tellus vitae, ultricies felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eget aliquet mauris. Vivamus at porttitor augue, sed hendrerit purus. Morbi dapibus scelerisque lectus. Nulla egestas sem euismod leo interdum, eu semper elit egestas. Cras sit amet arcu ornare, varius lacus et, feugiat augue. Donec ac hendrerit eros, sit amet gravida erat.["Nelson HTML Preprocessor". Retrieved 2009-06-09.](:Footnote)
 
-It might be argued that the hyperlink partially eliminates the need for notes, being the web's way to refer to another document. However, it does not allow citing to offline sources and if the destination of the link changes, the link can become dead 
-or irrelevant.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue. Retrieved 25 January 2015. Archived from the original.](:Footnote) A proposed solution is the use of a digital object identifier.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla est at fermentum lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque pretium viverra nibh at commodo. Duis at est ac risus euismod rhoncus. Proin vitae ligula ullamcorper, vehicula ipsum nec, scelerisque enim. Maecenas et viverra tellus. Duis convallis tempus leo, mollis varius nunc eleifend ac. Vestibulum a laoreet lectus. Pellentesque ut leo in neque mattis elementum sit amet at nisl. Suspendisse vulputate finibus arcu sit amet fermentum. Sed eu sem nisl.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue. Retrieved 25 January 2015. Archived from the original.](:Footnote) A proposed solution is the use of a digital object identifier.
 
 > :Footnotes
 
-> :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
-
-### Komentari
-
-> :DarkLight
-> > :InLight
-> >
-> > > :Utterances theme=github-light
->
-> > :InDark
-> >
-> > > :Utterances theme=github-dark
+> :Space
