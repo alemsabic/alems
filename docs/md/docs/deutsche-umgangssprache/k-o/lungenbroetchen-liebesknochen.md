@@ -1,7 +1,12 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 
 # Lungenbrötchen & Liebesknochen
+
+
+> :Space
+
+
 
 > :ToCPrevNext prev-label=Vorherige, next-label=Nächste
 

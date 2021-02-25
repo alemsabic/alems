@@ -1,6 +1,9 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 # Edelratte & Egospritze
+
+> :Space
+
 
 > :ToCPrevNext prev-label=Vorherige, next-label=Nächste
 

@@ -1,7 +1,11 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 
 # Maurerbibel & Mäusefäuste
+
+> :Space
+
+
 
 > :ToCPrevNext prev-label=Vorherige, next-label=Nächste
 

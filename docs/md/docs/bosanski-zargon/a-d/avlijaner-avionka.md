@@ -1,7 +1,9 @@
-<style>.container {padding-top: 96px !important;}</style>
-
+> :Space
 
 # avlijanerka & avionka
+
+> :Space
+
 
 ## ažbaha
 
@@ -16,7 +18,7 @@
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
-### Komentariši
+### Komentari
 
 > :DarkLight
 > > :InLight

@@ -1,6 +1,8 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
-# Deutsche Umgangssprache
+
+<h1>Deutsche Umgangssprache</h1>
+
 
 > :DarkLight
 > > :InLight
@@ -20,24 +22,9 @@
 
 <div align="center"><h3>Wie Deutschland (wirklich) spricht</h3></div>
 
+
 > :Space
 
-HTML, the predominant markup language for web pages, has no mechanism for marking up notes. Despite a number of different proposals over the years, and repeated pleas from the user base, the working group has been unable to reach a consensus on it. Because of this, MediaWiki, for example, has had to introduce its own <ref></ref> tag for citing references in notes, an idea which has since also been implemented for generic use by the Nelson HTML preprocessor.["Nelson HTML Preprocessor". Retrieved 2009-06-09.](:Footnote)
+__Phasellus a eros molestie__ pretium est vehicula, feugiat elit. Vivamus vitae molestie massa. Sed nunc augue, lacinia in lectus vel, faucibus volutpat odio. Maecenas vitae ultrices tellus. Nunc ornare ut velit ut sollicitudin. Duis vulputate nisl convallis nisl blandit, interdum lacinia libero ullamcorper. In tincidunt ligula quis justo ultricies, nec dignissim leo volutpat. Aenean nec tellus cursus, iaculis urna ut, tempor tellus. Aenean a sem fringilla, condimentum ex eu, varius est. Fusce ac tincidunt est. Pellentesque vitae blandit mauris. Nulla cursus ultricies elit sit amet sagittis. Duis odio ipsum, consequat vel turpis id, facilisis tincidunt enim. Nullam aliquet est vel lacus posuere tempus. Aliquam sapien orci, blandit non volutpat a, eleifend eget mauris.
 
-It might be argued that the hyperlink partially eliminates the need for notes, being the web's way to refer to another document. However, it does not allow citing to offline sources and if the destination of the link changes, the link can become dead 
-or irrelevant.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue. Retrieved 25 January 2015. Archived from the original.](:Footnote) A proposed solution is the use of a digital object identifier.
-
-> :Footnotes
-
-> :ToCPrevNext prev-label=Vorherige, next-label=Nächste
-
-### Kommentare
-
-> :DarkLight
-> > :InLight
-> >
-> > > :Utterances theme=github-light
->
-> > :InDark
-> >
-> > > :Utterances theme=github-dark
+> :Space

@@ -1,7 +1,10 @@
-<style>.container {padding-top: 96px !important;}</style>
+> :Space
 
 
 # verballert & verticken
+
+> :Space
+
 
 
 > :ToCPrevNext prev-label=Vorherige, next-label=Nächste

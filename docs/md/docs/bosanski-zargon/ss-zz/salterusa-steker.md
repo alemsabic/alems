@@ -3,7 +3,7 @@
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
-### Komentariši
+### Komentari
 
 > :DarkLight
 > > :InLight
