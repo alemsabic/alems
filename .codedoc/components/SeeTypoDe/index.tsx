@@ -2,7 +2,7 @@ import { ThemedComponentThis } from '@connectv/jss-theme';
 import { RendererLike } from '@connectv/html';
 import { transport } from "@connectv/sdh/transport";
 
-export function SeeTypo(
+export function SeeTypoDe(
   this: ThemedComponentThis,
   _: any,
   renderer: RendererLike<any, any>,
@@ -11,8 +11,8 @@ export function SeeTypo(
   const pathname = window.location.pathname
   const hrefPostfix = ".md"
   const href = hrefPrefix + pathname + hrefPostfix
-  return <blockquote><p><span class="icon-font" data-ignore-text="" style="vertical-align: sub">create</span> <strong>BRIŠI GREŠKE</strong></p><p>Ako nađeš grešku, a grešaka more, možeš <a href={href}>ovdje da ih izbrišeš</a>. Puno ti hvala. Ili dotjeraj malo stvari. :-)</p></blockquote>
+  return <blockquote><p><span class="icon-font" data-ignore-text="" style="vertical-align: sub">create</span> <strong>FEHLER? UNMÖGLICH! :-)</strong></p><p>Wenn du Fehler siehst, und deren gibt's zuhauf, dann kannst du sie <a href={href}>hier berichtigen</a>. Vielen Dank dafür.</p></blockquote>
 
 }
 
-export const SeeTypo$ = transport(SeeTypo);
+export const SeeTypoDe$ = transport(SeeTypoDe);

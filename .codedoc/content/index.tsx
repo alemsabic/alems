@@ -41,7 +41,7 @@ h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
 h1{font-size: calc(1.3rem + 1.8vw);}
 h2 {font-size: calc(1.15rem + 1.2vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
-.container .text-0-0-15 p, div.source-0-0-17, .content-0-0-6 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
+.container .text-0-0-15 p, div.source-0-0-16, .content-0-0-6 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
 .container blockquote p {font-size: calc(0.85rem + 0.2vw);}
 .contentnav-0-0-8, .footnotes-0-0-13 {font-size: calc(0.7rem + 0.2vw);}
 .text-0-0-15 p {font-weight:bold;}

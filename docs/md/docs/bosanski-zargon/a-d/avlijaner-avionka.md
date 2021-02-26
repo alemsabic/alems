@@ -2,8 +2,9 @@
 
 # avlijanerka & avionka
 
-> :Space
+> :SeeTypo$
 
+****
 
 ## ažbaha je to
 
@@ -14,7 +15,6 @@
     1. Testing ywei
 4. Aenean auctor ex et velit condimentum viverra.
 
-> :SeeTypo$
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
