@@ -7,6 +7,9 @@ import { theme } from './theme';
 
 import { Utterances } from './components/utterances';
 import { SeeTypo$ } from './components/SeeTypo';
+import { SeeTypoDe$ } from './components/SeeTypoDe';
+
+
 
 import { codingBlog } from '@codedoc/coding-blog-plugin';  // --> import the plugin
 
@@ -89,7 +92,8 @@ markdown: {
   customComponents: {
     ...DefaultMarkdownCustomComponents,
     Utterances,
-    SeeTypo$
+    SeeTypo$,
+    SeeTypoDe$
   }
 },
 
