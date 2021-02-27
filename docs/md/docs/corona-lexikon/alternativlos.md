@@ -18,9 +18,9 @@
 > > > ![header](/images/corona-chronik-inverted.png)
 
 
-<div align="center"><h2>Sprache der Macht</h2></div>
+<div align="center"><h2>Ein alternativloses Werk</h2></div>
 
-<div align="center"><h3>Ein alternativloses Werk</h3></div>
+<div align="center"><h3>Text</h3></div>
 
 > :Space
 
