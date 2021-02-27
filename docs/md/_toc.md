@@ -94,7 +94,7 @@
 
 > :Collapse label=Corona-Lexikon
 >
-> [Sprache der Macht](/docs/corona-lexikon/alternativlos)
+> [Ein alternativloses Werk](/docs/corona-lexikon/alternativlos)
 > [Begriffe](/docs/corona-lexikon/begriffe)
 > [Chronologie](/docs/corona-lexikon/corona-chronologie)
 > [Zitate](/docs/corona-lexikon/corona-zitate)
