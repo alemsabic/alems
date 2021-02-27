@@ -11,7 +11,7 @@ export function SeeTypoDe(
   const pathname = window.location.pathname
   const hrefPostfix = ".md"
   const href = hrefPrefix + pathname + hrefPostfix
-  return <blockquote><p><span class="icon-font" data-ignore-text="" style="vertical-align: sub">create</span> <strong>FEHLER? UNMÖGLICH! :-)</strong></p><p>Wenn du Fehler siehst, und deren gibt's zuhauf, dann kannst du sie <a href={href}>hier berichtigen</a>. Vielen Dank dafür.</p></blockquote>
+  return <div style="text-align:right; margin-top:64px;"><span class="icon-font" data-ignore-text="" style="vertical-align: sub">create</span> <b><a href={href}>BERICHTIGE FEHLER</a></b></div>
 
 }
 
