@@ -65,6 +65,7 @@ export const config = /*#__PURE__*/configuration({
       }
     },                     
     stylesheets: [
+      <meta name="robots" content="noindex"/>,
     ],                     
     post: [
     ],                            
