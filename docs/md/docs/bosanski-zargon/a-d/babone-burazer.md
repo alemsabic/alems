@@ -24,6 +24,14 @@
 
 ****
 
+## bananko
+
+**bananko** *m :*
+
+1. muški spolni ud
+    1. »Opet me starka samo naložila. Kratko mi blizance pokazala, i to je to. `Bananko` se evo iskrivio od muke. Ko će sad, majko mila, opet ludu patku šamarati?«
+
+
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
 ### Komentari
