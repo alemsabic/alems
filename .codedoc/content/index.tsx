@@ -71,10 +71,10 @@ body.dark img {
   opacity: 0.7;
 }
 code {
-  background: #e8e80b;
+  background: #ecea2b;
 }
 body.dark code {
-  background: #333;
+  background: #1d1dc8;
 }
 .footnotes-0-0-13:before {
  content: ""; 
@@ -93,7 +93,7 @@ ol li {
 }
 ol li strong {
  font-weight: 400;
- color: #3720ea;
+ color: #0000ff;
 }
 body.dark ol li strong {
  color: #fff;
@@ -103,7 +103,7 @@ ol ol li strong {
  color: #111111;
 }
 body.dark ol ol li strong {
- color: #bbb;
+ color: #C8C8C8;
 }
 ol li strong:before {
  content: "⟩ ";
@@ -112,7 +112,7 @@ ol li strong:before {
  white-space: nowrap;
 }
 body.dark ol li strong:before {
- color: #bbb;
+ color: #C8C8C8;
 }
 ol ol li strong:before {
  content: "";
@@ -131,7 +131,7 @@ ol li:before {
  position: absolute;
  content: counters(cupcake, '.') '.';
  margin-left: -1.5em;
- color: #3720ea;
+ color: #0000ff;
 }
 ol ol {
  padding-left: 1.5em;
@@ -142,7 +142,7 @@ ol ol li:before {
  margin-left: -1.5em;
 }
 body ol li:before, body sup a, body .footnotes-0-0-13 b {
- color: #3720ea;
+ color: #0000ff;
 }
 body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-13 b {
  color:#fff;
