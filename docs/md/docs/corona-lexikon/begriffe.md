@@ -4,6 +4,19 @@
 
 > :Space
 
+
+## All you can vaccinate!
+
+**All you can vaccinate!** :
+
+1. Sed quis aliquet eros.
+    1. „Das Motto müsse sein: „All you can vaccinate“, sagte Söder nach Informationen der Deutschen Presse-Agentur. Man müsse aus der starren „Impfbürokratie“ in mehr Flexibilität kommen.“[https://www.swp.de/panorama/corona-gipfel-03-03-2021-live-ticker-lockdown-neue-regeln-beschluesse-stufenplan-merkel-treffen-geschaefte-schule-schnelltest-inzidenz-55415101.html](:Footnote)
+
+> :Footnotes
+
+****
+
+
 ## Tugendterror
 
 **Tugendterror** _m_ :
