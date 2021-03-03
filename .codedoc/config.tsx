@@ -45,8 +45,8 @@ export const config = /*#__PURE__*/configuration({
     fonts: {                             // --> font settings
       text: {                            // --> font used for texts
         url:                             // --> URL of font used for texts
-          'https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,500;0,700;1,400&display=swap',
-        name: 'Source Code Pro',                    // --> name of font used for texts
+          'https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,400&display=swap',
+        name: 'Roboto',                    // --> name of font used for texts
         fallback: 'sans-serif'           // --> the fallback font for texts
       },
       code: {                            // --> font used for codes
