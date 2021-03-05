@@ -33,19 +33,10 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 
 <style>
 {`
-html {font-size: 100%;}
-body {line-height: 1.8;}
 h2 {line-height:1.3; text-transform:uppercase;}
-h3 {line-height:1.3; font-weight:normal; text-transform:uppercase;}
+h3 {line-height:1.3; text-transform:uppercase;}
 h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
-h1{font-size: calc(1.3rem + 1.8vw);}
-h2 {font-size: calc(1.15rem + 1.2vw);}
-h3 {font-size: calc(0.9rem + 0.7vw);}
-.container .text-0-0-15 p, div.source-0-0-16, .content-0-0-6 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
-.container blockquote p {font-size: calc(0.85rem + 0.2vw);}
-.contentnav-0-0-8, .footnotes-0-0-13 {font-size: calc(0.7rem + 0.2vw);}
-.text-0-0-15 p {font-weight:bold;}
-sup {font-size:0.75em;}
+.container {line-height:2;}
 .inside a.icon-font {font-size:36px;}
 .inside a.icon-font {
   opacity: 0.35;
@@ -59,14 +50,7 @@ sup {font-size:0.75em;}
 
 <style>
 {`
-.collapse-0-0-2 > .content {border-left:1px solid rgba(17,17,17,0.2);}
-body.dark .collapse-0-0-2 > .content {border-left:1px solid rgba(255,255,255,0.2);}
-.contentnav-0-0-8 {
-  border-left: 1px solid;
-}
-body.dark h1, body.dark h2 {
-  color: white;
-}
+
 body.dark img {
   opacity: 0.7;
 }
@@ -74,14 +58,7 @@ code {
   background: #ecea2b;
 }
 body.dark code {
-  background: #1d1dc8;
-}
-.footnotes-0-0-13:before {
- content: ""; 
- display: block;
- width: 10%;
- padding-top: 12px;
- border-top: 1px solid;
+  background: #2f2f8e;
 }
 ol {
  counter-reset: cupcake;
@@ -91,47 +68,20 @@ ol {
 ol li {
  counter-increment: cupcake;
 }
-ol li strong {
- font-weight: 400;
- color: #0000ff;
-}
-body.dark ol li strong {
- color: #fff;
-}
-ol ol li strong {
- font-weight: 700;
- color: #111111;
-}
-body.dark ol ol li strong {
- color: #C8C8C8;
-}
 ol li strong:before {
- content: "⟩ ";
- color: #111;
  padding-left: .4em;
  white-space: nowrap;
-}
-body.dark ol li strong:before {
- color: #C8C8C8;
-}
-ol ol li strong:before {
- content: "";
- padding-left: 0;
 }
 ol li strong:after {
  padding-right: 0.4em;
  content: "";
  white-space: nowrap;
 }
-ol ol li strong:after {
- padding-right: 0;
- content: " ";
-}
 ol li:before {
  position: absolute;
  content: counters(cupcake, '.') '.';
  margin-left: -1.5em;
- color: #0000ff;
+ font-weight: 700;
 }
 ol ol {
  padding-left: 1.5em;
@@ -140,12 +90,6 @@ ol ol li:before {
  position: absolute;
  content: "▸ ";
  margin-left: -1.5em;
-}
-body ol li:before, body sup a, body .footnotes-0-0-13 b {
- color: #0000ff;
-}
-body.dark ol li:before, body.dark sup a, body.dark .footnotes-0-0-13 b {
- color:#fff;
 }
 `}
 </style>

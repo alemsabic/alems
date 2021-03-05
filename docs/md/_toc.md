@@ -98,3 +98,7 @@
 > [Begriffe](/docs/corona-lexikon/begriffe)
 > [Chronologie](/docs/corona-lexikon/corona-chronologie)
 > [Zitate](/docs/corona-lexikon/corona-zitate)
+
+<br><br>
+
+[X<sup>2</sup> ALEMS.ORG](https://x2.alems.org)
