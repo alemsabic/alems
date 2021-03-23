@@ -87,7 +87,7 @@ ol li strong:after {
 }
 ol li:before {
  position: absolute;
- content: counters(cupcake, '.') '.';
+ content: counter(cupcake) '.';
  margin-left: -1.5em;
  font-weight: 700;
 }
@@ -98,6 +98,7 @@ ol ol li:before {
  position: absolute;
  content: "▸ ";
  margin-left: -1.5em;
+ font-weight:normal;
 }
 `}
 </style>
