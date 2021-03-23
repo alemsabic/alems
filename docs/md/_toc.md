@@ -1,4 +1,4 @@
-[ALEMS.ORG](/)
+[Alems.org](/)
 
 > :Collapse label=Bosanski žargon
 >
@@ -94,4 +94,4 @@
 
 <br><br>
 
-[X<sup>2</sup> ALEMS.ORG](https://x2.alems.org)
+[Kontakt](/kontakt)

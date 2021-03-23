@@ -5,7 +5,7 @@ import { Footer as _Footer, GitterToggle$} from '@codedoc/core/components';
 export function Footer(config: CodedocConfig, renderer: any) {
   let github$;
   if (config.misc?.github)
-    github$ = <a class="icon icon-font" href={`/kontakt`}>perm_contact_calendar</a>;
+    github$ = <a class="icon icon-font" href={`/`}>home</a>;
   let community$;
   if (config.misc?.gitter)
   community$ = <GitterToggle$ room={config.misc.gitter.room} label='chat' icon={true}/>;
