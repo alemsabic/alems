@@ -6,8 +6,7 @@
 
 - [Telegram](https://t.me/alemsabic) ( [textsms](:Icon) ) 
 - [0162 90 55555](tel:+491629055555) ( [phone](:Icon) )
-- [alemsabic@gmail.com](mailto:alemsabic@gmail.com) ( [email](:Icon) )
-- [alemsabic@pm.me](mailto:alemsabic@pm.me) ( [security](:Icon) )
+- [alemsabic@pm.me](mailto:alemsabic@pm.me) ( [email](:Icon) )
 
 
 ****
@@ -17,6 +16,4 @@
 >
 > > :Button icon=true, label=phone, url=tel:+491629055555
 >
-> > :Button icon=true, label=email, url=mailto:alemsabic@gmail.com
->
-> > :Button icon=true, label=security, url=mailto:alemsabic@pm.me
+> > :Button icon=true, label=email, url=mailto:alemsabic@pm.me
