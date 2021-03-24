@@ -2,7 +2,7 @@
 
 > :Collapse label=Bosanski žargon
 >
-> [Tako ti je, mala boja, kad priča Bosanac](/docs/bosanski-zargon/uvod)
+> [Tako ti je, mala boja, kad priča Bosanac](/docs/bosanski-zargon/bosanski-zargon)
 > > :Collapse label=A-D
 > >
 > > [avlijaner & avionka](/docs/bosanski-zargon/a-d/avlijaner-avionka)
@@ -50,7 +50,7 @@
 
 > :Collapse label=Deutsche Umgangssprache
 >
-> [Wie Deutschland (wirklich) spricht](/docs/deutsche-umgangssprache/einfuehrung)
+> [Wie Deutschland (wirklich) spricht](/docs/deutsche-umgangssprache/deutsche-umgangssprache)
 > > :Collapse label=A-E
 > >
 > > [Arschwasser & Asphaltlutscher](/docs/deutsche-umgangssprache/a-e/arschwasser-asphaltlutscher)
