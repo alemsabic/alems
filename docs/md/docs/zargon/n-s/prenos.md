@@ -1,6 +1,6 @@
 > :Space
 
-# peder & prenos
+# prenos
 
 > :SeeTypo$
 

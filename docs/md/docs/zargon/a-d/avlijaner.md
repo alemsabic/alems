@@ -1,7 +1,7 @@
 > :Space
 
 
-# avlijanerka & avionka
+# avlijaner
 
 
 > :SeeTypo$
