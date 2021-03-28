@@ -27,7 +27,7 @@ export const config = /*#__PURE__*/configuration({
       subject: 'Sarajevski žargon',           // --> the subject meta tag for each page
       description: 'Stranica Alema Šabića. Uz pomoć nekih drugih budala.',          // --> description meta tag for each page
       keywords: ['test','test', 'text'],                        
-      themeColor: 'rgba(42,42,42)',              // --> the browser bar color of your docs
+      themeColor: '#000',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
     },
