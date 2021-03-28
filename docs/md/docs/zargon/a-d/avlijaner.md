@@ -8,8 +8,6 @@
 
 ****
 
-
-
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
 ### Komentari
