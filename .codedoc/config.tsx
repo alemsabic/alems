@@ -7,16 +7,11 @@ import { theme } from './theme';
 
 import { Utterances } from './components/utterances';
 import { SeeTypo$ } from './components/SeeTypo';
-import { SeeTypoDe$ } from './components/SeeTypoDe';
-
-
 
 import { codingBlog } from '@codedoc/coding-blog-plugin';  // --> import the plugin
 
-
 import { StaticRenderer } from '@connectv/sdh';    // --> import a static renderer for easily creating the script elements
 import register from 'jsdom-global';               // --> also lets create a global document object for that purpose
-
 
 const renderer = new StaticRenderer();             // --> initialize renderer
 register();                                        // --> register global document object
@@ -32,7 +27,7 @@ export const config = /*#__PURE__*/configuration({
       subject: 'Sarajevski žargon',           // --> the subject meta tag for each page
       description: 'Stranica Alema Šabića. Uz pomoć nekih drugih budala.',          // --> description meta tag for each page
       keywords: ['test','test', 'text'],                        
-      themeColor: '#007',             // --> the browser bar color of your docs
+      themeColor: 'rgba(42,42,42)',              // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
     },
@@ -93,8 +88,7 @@ markdown: {
   customComponents: {
     ...DefaultMarkdownCustomComponents,
     Utterances,
-    SeeTypo$,
-    SeeTypoDe$
+    SeeTypo$
   }
 },
 

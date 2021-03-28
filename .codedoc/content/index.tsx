@@ -41,8 +41,18 @@ h1{font-size: calc(1.3rem + 1.8vw);}
 h2 {font-size: calc(1.2rem + 1.1vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
 .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.15vw);}
-strong {text-transform:uppercase;}
 
+.content-0-0-9 { 
+/* this will hide the scrollbar in mozilla based browsers */
+overflow: -moz-scrollbars-none;
+/* this will hide the scrollbar in internet explorers */
+-ms-overflow-style: none;
+}
+
+.content-0-0-9::-webkit-scrollbar { 
+  width: 0 !important;
+  display: none; 
+}
 
 .container {line-height:1.8;}
 .inside a.icon-font {font-size:36px;}

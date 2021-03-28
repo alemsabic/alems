@@ -1,14 +1,18 @@
 > :Space
 
-# Ofenoffice & Offliner
 
-> :Space
-
+# avlijaner
 
 
-> :ToCPrevNext prev-label=Vorherige, next-label=Nächste
+> :SeeTypo$
 
-### Kommentare
+****
+
+
+
+> :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
+
+### Komentari
 
 > :DarkLight
 > > :InLight
