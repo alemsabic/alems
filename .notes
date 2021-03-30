@@ -32,8 +32,27 @@
 
 "Sicherheit ist eins dieser komischen Wörter. Bedeutet manchmal was anderes für die Person, die es sagt und die, die es hört." "Gottlos (2017)"
 
+> :Space
 
+<h1>ne kontam</h1>
 
+> :DarkLight
+> > :InLight
+> > 
+> > > :Center
+> > >
+> > > ![header](/images/majmun.png)
+>
+> > :InDark
+> >
+> > > :Center
+> > >
+> > > ![header](/images/majmun-inverted.png)
+
+<div align="center"><p style="text-transform: uppercase; font-size: 20px;"><b>Govor ulice</b><br>Bosansko – Njemački</p>
+<p style="text-transform: uppercase; font-size: 20px;"><b>Straßensprache</b><br>Deutsch – Bosnisch</p></div>
+
+****
 
 html {font-size: 100%;}
 body {line-height: 1.8;}

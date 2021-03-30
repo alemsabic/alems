@@ -66,53 +66,6 @@ overflow: -moz-scrollbars-none;
 `}
 </style>
 
-<style>
-{`
-
-body.dark img {
-  opacity: 0.7;
-}
-code {
-  background: #ecea2b;
-}
-body.dark code {
-  background: #2f2f8e;
-}
-ol {
- counter-reset: cupcake;
- padding-left: 1.6em;
- list-style: none;
-}
-ol li {
- counter-increment: cupcake;
-}
-ol li strong:before {
- padding-left: .4em;
- white-space: nowrap;
-}
-ol li strong:after {
- padding-right: 0.4em;
- content: "";
- white-space: nowrap;
-}
-ol li:before {
- position: absolute;
- content: counter(cupcake) '.';
- margin-left: -1.5em;
- font-weight: 700;
-}
-ol ol {
- padding-left: 1.5em;
-}
-ol ol li:before {
- position: absolute;
- content: "▸ ";
- margin-left: -1.5em;
- font-weight:normal;
-}
-`}
-</style>
-
       {_content}
       <ContentNav content={_content}/>
     </Page>
