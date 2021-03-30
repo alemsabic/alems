@@ -1,9 +1,9 @@
-[nekontam](/)
+[Alems.org](/)
 
 
-> :Collapse label=a-d
+> :Collapse label=A-D
 >
-> [avlijaner](/docs/zargon/a-d/avlijaner)
+> [A](/docs/zargon/a-d/a)
 > [babone](/docs/zargon/a-d/babone)
 > [crvenkapica](/docs/zargon/a-d/crvenkapica)
 > [čmaramica](/docs/zargon/a-d/cmaramica)
