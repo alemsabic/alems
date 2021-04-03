@@ -71,6 +71,8 @@ dest: {
   namespace: '',
   html: 'dist',
   assets: 'dist',
+  bundle: 'sarajevski-zargon/assets',               // --> where to store codedoc's bundle (relative to `assets`)
+  styles: 'sarajevski-zargon/assets',               // --> where to store codedoc's styles (relative to `assets`)
 },
 misc: {
   github: {
