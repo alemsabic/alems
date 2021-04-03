@@ -68,7 +68,7 @@ export const config = /*#__PURE__*/configuration({
   },
 
 dest: {
-  namespace: '/zargon',
+  namespace: '',
   html: 'dist',
   assets: 'dist',
 },
