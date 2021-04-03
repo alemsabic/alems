@@ -4,11 +4,11 @@ import { createTheme } from '@codedoc/core/transport';
 export const theme = /*#__PURE__*/createTheme({
   light: {
     background: '#fffd83',           // --> CSS color string, background of the page
-    text: '#333',            // --> CSS color string, color of text
-    primary: '#333',             // --> CSS color string, primary color (for buttons, links, etc)
+    text: '#444',            // --> CSS color string, color of text
+    primary: '#444',             // --> CSS color string, primary color (for buttons, links, etc)
     primaryContrast: '#fffd83',      // --> CSS color string, text color on primary background (e.g. buttons)
     border: 'rgba(0,0,0,0.2)',               // --> CSS color string, border colors
-    code: '#333',                  // --> CSS color string, in-text code color
+    code: '#444',                  // --> CSS color string, in-text code color
   },
   dark: {
     background: '#333',           // --> CSS color string, background of the page
