@@ -7,7 +7,7 @@
 
 <h1>govor ulice</h1>
 
-<p style="text-transform:uppercase;letter-spacing:5px;" align="center">sarajevsko-njemački <br> njemačko-sarajevski</p>
+<p style="text-transform:uppercase;letter-spacing:5px;" align="center">Sarajevsko-njemački, <br> njemačko-sarajevski<br>rječnik žargona.</p>
 
 
 > :Space space=32px

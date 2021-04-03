@@ -20,13 +20,13 @@ export const config = /*#__PURE__*/configuration({
   theme,                           // --> add the theme. modify `./theme.ts` for chaning the theme.
   page: {                                // @see /docs/config/page
     title: {
-      base: 'Alems.org',
+      base: 'Govor ulice. Kako Sarajevo priča.',
       connector: ' > ',
     },
       meta: {                              // --> meta tags of each page
-      subject: 'Sarajevski žargon. Sarajevski govor ulice.',           // --> the subject meta tag for each page
-      description: 'Stranica Alema Šabića. Uz pomoć nekih drugih budala.',          // --> description meta tag for each page
-      keywords: ['test','test', 'text'],                        
+      subject: 'Govor ulice. Rječnik sarajevskog žargona.',           // --> the subject meta tag for each page
+      description: 'Sarajevsko-njemački, njemačko-sarajevski rječnik žargona. Uz neke izreke, fraze i poslovice.',          // --> description meta tag for each page
+      keywords: ['rječnik sarajevskog žargona','govor ulice', 'sarajevski žargon'],                        
       themeColor: '#000',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
@@ -40,7 +40,7 @@ export const config = /*#__PURE__*/configuration({
     fonts: {                             // --> font settings
       text: {                            // --> font used for texts
         url:                             // --> URL of font used for texts
-          'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap',
+          'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&display=swap',
         name: 'IBM Plex Mono',                    // --> name of font used for texts
         fallback: 
         `'Courier New', Courier, monospace`           // --> the fallback font for texts
@@ -96,7 +96,12 @@ markdown: {
 },
 
 plugins: [
-  codingBlog() 
+  codingBlog({                                           // --> plug the plugin in
+    // ...
+    feed: {
+      url: '',                 // --> the base URL for your RSS feed
+    }
+  })
 ],
 
 });

@@ -1,12 +1,6 @@
-> :MetaOverride target=description
->
-> Govor ulice. Sarajevski žargon.
-
 > :MetaOverride target=keywords
 >
 > bagerke, bananko, baklava
-
-
 
 > :Space
 

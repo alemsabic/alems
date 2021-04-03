@@ -33,8 +33,8 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 
 <style>
 {`
-h2 {line-height:1.3; text-transform:uppercase;}
-h3 {line-height:1.3; text-transform:uppercase;}
+h2 {line-height:1.3;}
+h3 {line-height:1.3;}
 h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
 
 h1{font-size: calc(2rem + 1.8vw);}
