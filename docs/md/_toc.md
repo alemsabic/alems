@@ -1,56 +1,55 @@
 [Alems.org](/)
 
-
 > :Collapse label=A-D
 >
 > [A](/docs/zargon/a-d/a)
-> [babone](/docs/zargon/a-d/babone)
-> [crvenkapica](/docs/zargon/a-d/crvenkapica)
-> [čmaramica](/docs/zargon/a-d/cmaramica)
-> [ćoškara](/docs/zargon/a-d/coskara)
-> [degen](/docs/zargon/a-d/degen)
+> [B](/docs/zargon/a-d/b)
+> [C](/docs/zargon/a-d/c)
+> [Č](/docs/zargon/a-d/cc)
+> [Ć](/docs/zargon/a-d/ccc)
+> [D](/docs/zargon/a-d/d)
 >
 
-> :Collapse label=đ-h
+> :Collapse label=Đ-H
 >
-> [đonaš](/docs/zargon/dj-h/djonas)
-> [džada](/docs/zargon/dj-h/dzada)
-> [ekser](/docs/zargon/dj-h/ekser)
-> [foluška](/docs/zargon/dj-h/foluska)
-> [gargamel](/docs/zargon/dj-h/gargamel)
-> [hahar](/docs/zargon/dj-h/hahar)
->
-
-> :Collapse label=i-m
->
-> [izgoretina](/docs/zargon/i-m/izgoretina)
-> [jalijaš](/docs/zargon/i-m/jalijas)
-> [kec](/docs/zargon/i-m/kec)
-> [levat](/docs/zargon/i-m/levat)
-> [ljulj](/docs/zargon/i-m/ljulj)
-> [muf](/docs/zargon/i-m/muf)
+> [Đ](/docs/zargon/dj-h/dj)
+> [DŽ](/docs/zargon/dj-h/dz)
+> [E](/docs/zargon/dj-h/e)
+> [F](/docs/zargon/dj-h/f)
+> [G](/docs/zargon/dj-h/g)
+> [H](/docs/zargon/dj-h/h)
 >
 
-> :Collapse label=n-s
+> :Collapse label=I-M
 >
-> [naftaš](/docs/zargon/n-s/naftas)
-> [njonjo](/docs/zargon/n-s/njonjo)
-> [odron](/docs/zargon/n-s/odron)
-> [prenos](/docs/zargon/n-s/prenos)
-> [raja](/docs/zargon/n-s/raja)
-> [sušiona](/docs/zargon/n-s/susiona)
+> [I](/docs/zargon/i-m/i)
+> [J](/docs/zargon/i-m/j)
+> [K](/docs/zargon/i-m/k)
+> [L](/docs/zargon/i-m/l)
+> [LJ](/docs/zargon/i-m/lj)
+> [M](/docs/zargon/i-m/m)
 >
 
-> :Collapse label=š-ž
+> :Collapse label=N-S
 >
-> [šalteruša](/docs/zargon/ss-zz/salterusa)
-> [truba](/docs/zargon/ss-zz/truba)
-> [udičar](/docs/zargon/ss-zz/udicar)
-> [vutra](/docs/zargon/ss-zz/vutra)
-> [zafri](/docs/zargon/ss-zz/zafri)
-> [žiletuša](/docs/zargon/ss-zz/ziletusa)
+> [N](/docs/zargon/n-s/n)
+> [NJ](/docs/zargon/n-s/nj)
+> [O](/docs/zargon/n-s/o)
+> [P](/docs/zargon/n-s/p)
+> [R](/docs/zargon/n-s/r)
+> [S](/docs/zargon/n-s/s)
+>
+
+> :Collapse label=Š-Ž
+>
+> [Š](/docs/zargon/ss-zz/ss)
+> [T](/docs/zargon/ss-zz/t)
+> [U](/docs/zargon/ss-zz/u)
+> [V](/docs/zargon/ss-zz/v)
+> [Z](/docs/zargon/ss-zz/z)
+> [Ž](/docs/zargon/ss-zz/zz)
 
 
 <br><br>
 
-[kontakt](/kontakt)
+[Kontakt](/kontakt)

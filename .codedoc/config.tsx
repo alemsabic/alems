@@ -24,7 +24,7 @@ export const config = /*#__PURE__*/configuration({
       connector: ' > ',
     },
       meta: {                              // --> meta tags of each page
-      subject: 'Sarajevski žargon',           // --> the subject meta tag for each page
+      subject: 'Sarajevski žargon. Sarajevski govor ulice.',           // --> the subject meta tag for each page
       description: 'Stranica Alema Šabića. Uz pomoć nekih drugih budala.',          // --> description meta tag for each page
       keywords: ['test','test', 'text'],                        
       themeColor: '#000',             // --> the browser bar color of your docs
@@ -40,13 +40,14 @@ export const config = /*#__PURE__*/configuration({
     fonts: {                             // --> font settings
       text: {                            // --> font used for texts
         url:                             // --> URL of font used for texts
-          'https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400&display=swap',
-        name: 'Roboto Mono',                    // --> name of font used for texts
-        fallback: 'sans-serif'           // --> the fallback font for texts
+          'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap',
+        name: 'IBM Plex Mono',                    // --> name of font used for texts
+        fallback: 
+        `'Courier New', Courier, monospace`           // --> the fallback font for texts
       },
       code: {                            // --> font used for codes
         url:                             // --> URL of font used for codes
-          'https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400&display=swap',
+          'https://fonts.googleapis.com/css?family=Source+Code+Pro:400&display=swap',
         name: 'Source Code Pro',         // --> name of the font used for codes
         fallback:                        // --> fallback font for codes
           `'Courier New', Courier, monospace`
@@ -67,7 +68,7 @@ export const config = /*#__PURE__*/configuration({
   },
 
 dest: {
-  namespace: '',
+  namespace: '/zargon',
   html: 'dist',
   assets: 'dist',
 },
