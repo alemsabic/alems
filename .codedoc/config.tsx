@@ -96,12 +96,7 @@ markdown: {
 },
 
 plugins: [
-  codingBlog({                                           // --> plug the plugin in
-    // ...
-    feed: {
-      url: '',                 // --> the base URL for your RSS feed
-    }
-  })
+  codingBlog()
 ],
 
 });
