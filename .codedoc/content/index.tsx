@@ -37,7 +37,7 @@ h2 {line-height:1.3; text-transform:uppercase;}
 h3 {line-height:1.3; text-transform:uppercase;}
 h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
 
-h1{font-size: calc(1.3rem + 1.8vw);}
+h1{font-size: calc(2rem + 1.8vw);}
 h2 {font-size: calc(1.2rem + 1.1vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
 .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.15vw);}

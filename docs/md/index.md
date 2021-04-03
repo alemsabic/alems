@@ -1,19 +1,12 @@
-> :Space space=256px
+> :Hero src=/images/alems-schwarz.svg,
+>       mode=light
 
-> :DarkLight
-> > :InLight
-> > 
-> > > :Center
-> > >
-> > > ![header](/images/alems-logo-white.png)
->
-> > :InDark
-> >
-> > > :Center
-> > >
-> > > ![header](/images/alems-logo.png)
+> :Hero src=/images/alems.svg,
+>       mode=dark
 
-<h2 align="center">Govor ulice</h2>
+<h1 align="center">Govor ulice</h1>
+
+<p style="text-transform:uppercase;" align="center">sarajevsko-njemački <br> njemačko-sarajevski<br></p>
 
 > :Space
 
