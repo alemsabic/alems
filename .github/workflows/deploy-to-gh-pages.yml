@@ -33,7 +33,6 @@ jobs:
           cp safari-pinned-tab.svg dist/
           cp site.webmanifest dist/
           cp utterances.json dist/
-          cp README.md dist/
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
