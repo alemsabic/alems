@@ -1,10 +1,11 @@
-> :MetaOverride target=keywords
->
-> bagerke, bananko, baklava
+> :Hero src=/images/baja-schwarz.svg,
+>       mode=light
 
-> :Space
+> :Hero src=/images/baja.svg,
+>       mode=dark
 
-# B
+# baja
+
 
 > :SeeTypo$
 
