@@ -7,16 +7,17 @@
 
 <h1>govor ulice</h1>
 
-<p style="text-transform:uppercase;letter-spacing:5px;" align="center">Sarajevsko-njemački, <br> njemačko-sarajevski<br>rječnik žargona.*</p>
-
+<p style="text-transform:uppercase;letter-spacing:5px;" align="center">Sarajevsko-njemački, <br> njemačko-sarajevski<br>rječnik žargona.</p>
 
 > :Space space=32px
 
-__NUNC EGET ANTE TRISTIQUE__, interdum tellus vitae, ultricies felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eget aliquet mauris. Vivamus at porttitor augue, sed hendrerit purus. Morbi dapibus scelerisque lectus. Nulla egestas sem euismod leo interdum, eu semper elit egestas. Cras sit amet arcu ornare, varius lacus et, feugiat augue. Donec ac hendrerit eros, sit amet gravida erat.
-by the Nelson HTML preprocessor.
+__SARAJEVSKO-NJEMAČKI, NJEMAČKO-SARAJEVSKI RJEČNIK ŽARGONA.__language for web pages, has no mechanism for marking up notes. Despite a number of different proposals over the years, and repeated pleas from the user base, the working group has been unable to reach a consensus on it. Because of this, MediaWiki, for example, has had to introduce its own tag for citing references in notes, an idea which has since also been implemented for generic use by the Nelson HTML preprocessor.["Roditeljska pažnja. Sadržaj nije primjeren za djecu i maloljetnike. | FSK ab 18. Für Kinder & Zartbesaitete nicht geeignet.](:Footnote)
 
-*Roditeljska pažnja. Sadržaj nije primjeren za djecu i maloljetnike. | FSK ab 18. Für Kinder & Zartbesaitete nicht geeignet.
+It might be argued that the hyperlink partially eliminates the need for notes, being the web's way to refer to another document. However, it does not allow citing to offline sources and if the destination of the link changes, the link can become dead or irrelevant.[Jill Lepore. "The Cobweb", The New Yorker, 26 January 2015 issue. Retrieved 25 January 2015. Archived from the original.](:Footnote) A proposed solution is the use of a digital object identifier.
 
-<iframe src="https://sarajevo.substack.com/embed" width="480" height="360" style="border:none; background:none;" frameborder="0" scrolling="no"></iframe>
+<br><br>
+
+> :Footnotes
+
 
 > :Space

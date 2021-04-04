@@ -1,8 +1,10 @@
-> :Space
+> :Hero src=/images/avion-schwarz.svg,
+>       mode=light
 
+> :Hero src=/images/avion.svg,
+>       mode=dark
 
-# a
-
+# avion
 
 > :SeeTypo$
 
