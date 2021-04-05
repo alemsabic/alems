@@ -1,11 +1,11 @@
-> :Hero src=/images/daska-schwarz.svg,
+> :Hero src=https://www.alems.org/images/daska-schwarz.svg,
 >       mode=light
 
 > :Hero src=/images/daska.svg,
 >       mode=dark
 
 
-# dasa
+# daska
 
 > :SeeTypo$
 
