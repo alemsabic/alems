@@ -1,4 +1,14 @@
-> :Space
+> :Hero src=/images/metak-schwarz.svg,
+>       mode=light
+
+> :Hero src=/images/metak.svg,
+>       mode=dark
+
+# metak
+
+> :SeeTypo$
+
+****
 
 
 

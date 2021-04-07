@@ -1,4 +1,14 @@
-> :Space
+> :Hero src=/images/susiona-schwarz.svg,
+>       mode=light
+
+> :Hero src=/images/susiona.svg,
+>       mode=dark
+
+# sušiona
+
+> :SeeTypo$
+
+****
 
 
 

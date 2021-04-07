@@ -1,5 +1,14 @@
-> :Space
+> :Hero src=/images/izgoretina-schwarz.svg,
+>       mode=light
 
+> :Hero src=/images/izgoretina.svg,
+>       mode=dark
+
+# izgoretina
+
+> :SeeTypo$
+
+****
 
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća

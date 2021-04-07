@@ -1,4 +1,14 @@
-> :Space
+> :Hero src=/images/ddonas-schwarz.svg,
+>       mode=light
+
+> :Hero src=/images/ddonas.svg,
+>       mode=dark
+
+# đonaš
+
+> :SeeTypo$
+
+****
 
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća

@@ -1,5 +1,14 @@
-> :Space
+> :Hero src=/images/jajara-schwarz.svg,
+>       mode=light
 
+> :Hero src=/images/jajara.svg,
+>       mode=dark
+
+# jajara
+
+> :SeeTypo$
+
+****
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
 
