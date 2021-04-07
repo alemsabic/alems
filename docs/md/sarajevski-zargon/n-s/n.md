@@ -4,7 +4,7 @@
 > :Hero src=/images/naze.svg,
 >       mode=dark
 
-# naze
+# naže
 
 > :SeeTypo$
 
