@@ -1,4 +1,8 @@
-> :Space
+> :Hero src=/images/prenos-schwarz.svg,
+>       mode=light
+
+> :Hero src=/images/prenos.svg,
+>       mode=dark
 
 # prenos
 

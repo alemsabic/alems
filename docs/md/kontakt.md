@@ -1,6 +1,10 @@
-> :Space
+> :Hero src=/images/kontakt-schwarz.svg,
+>       mode=light
 
-<h1>Kontakt</h1>
+> :Hero src=/images/kontakt.svg,
+>       mode=dark
+
+<h1>vozdra!</h1>
 
 > :Space
 

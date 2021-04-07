@@ -1,5 +1,14 @@
-> :Space
+> :Hero src=/images/naze-schwarz.svg,
+>       mode=light
 
+> :Hero src=/images/naze.svg,
+>       mode=dark
+
+# naze
+
+> :SeeTypo$
+
+****
 
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
