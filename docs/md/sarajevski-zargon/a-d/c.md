@@ -7,12 +7,16 @@
 
 # cice
 
-> :SeeTypo$
-
 ****
 
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
+
+### Briši greške
+
+> :SeeTypo$
+
+****
 
 ### Komentari
 
