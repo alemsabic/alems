@@ -6,10 +6,7 @@
 
 # baja
 
-
-> :SeeTypo$
-
-****
+<br><br>
 
 ## bagerke
 
@@ -33,6 +30,12 @@ __DEFINICIJA:__ muški spolni ud. __AUF DEUTSCH:__ Penis. Wörtlich: (Das) Banan
 __PRIMJER:__ »Opet me starka naložila. Kratko mi blizance pokazala, i to je to. __Bananko__ se evo iskrivio od muke. Ko će sad, majko mila, opet patku šamarati?«
 
 > :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
+
+### Briši greške
+
+> :SeeTypo$
+
+****
 
 ### Komentari
 

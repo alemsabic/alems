@@ -63,6 +63,21 @@ overflow: -moz-scrollbars-none;
   opacity: 1;
   text-decoration: none !important;
 }
+
+.container hr {
+  background: none;
+  border: 0;
+  
+}
+.container hr::after {
+  content: '* * *';
+  display: block;
+  opacity: 0.5;
+  line-height: 1;
+  text-align: center;
+}
+
+
 `}
 </style>
 
