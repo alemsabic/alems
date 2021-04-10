@@ -25,7 +25,6 @@ It might be argued that the hyperlink partially eliminates the need for notes, b
 
 ****
 
-<iframe src="https://www.nekontam.com/embed" width="480" height="480" style="border:none; background:white;" frameborder="0" scrolling="no"></iframe>
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 

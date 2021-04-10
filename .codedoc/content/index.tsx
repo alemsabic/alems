@@ -63,7 +63,6 @@ overflow: -moz-scrollbars-none;
   opacity: 1;
   text-decoration: none !important;
 }
-
 .container hr {
   background: none;
   border: 0;
@@ -76,7 +75,6 @@ overflow: -moz-scrollbars-none;
   line-height: 1;
   text-align: center;
 }
-
 body::before {
   content: "";
   position: fixed;
@@ -87,14 +85,12 @@ body::before {
   box-shadow: 0px 0 10px rgba(0, 0, 0, 0.8);
   z-index: 100;
 }
-.icon-twitter {
-  width: 0.9287109375em;
-  width: 1em;
-  height: 1em;
-  stroke-width: 0;
-  stroke: currentColor;
-  fill: currentColor;
+
+body h1::after {
+  content: " |";
+  opacity: 0.5;
 }
+
 
 `}
 </style>
