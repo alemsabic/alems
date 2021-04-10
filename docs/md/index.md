@@ -9,10 +9,6 @@
 
 <p style="text-transform:uppercase;letter-spacing:8px; line-height:2.2;" align="center">Bosansko — njemački<br>njemačko — bosanski<br><b>rječnik žargona</b></p>
 
-> :Center
-> 
-> > :Button label=Twitter.com/Sarajevo, url=https://twitter.com/sarajevo
-
 > :Space space=32px
 
 __LANGUAGE FOR THE WEB PAGES HAS__, has no mechanism for marking up notes. Despite a number of different proposals over the years, and repeated pleas from the user base, the working group has been unable to reach a consensus on it. Because of this, MediaWiki, for example, has had to introduce its own tag for citing references in notes, an idea which has since also been implemented for generic use by the Nelson HTML preprocessor.["Roditeljska pažnja. Sadržaj nije primjeren za djecu i maloljetnike. | FSK ab 18. Für Kinder & Zartbesaitete nicht geeignet.](:Footnote)
