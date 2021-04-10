@@ -18,7 +18,7 @@
 
 ****
 
-> :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
 ### Briši greške
 

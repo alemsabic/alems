@@ -40,7 +40,7 @@ h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
 h1{font-size: calc(2rem + 1.8vw);}
 h2 {font-size: calc(1.2rem + 1.1vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
-.container p, .container ol, .container ul {font-size: calc(0.9rem + 0.15vw);}
+.container p, .container ol, .container ul {font-size: calc(1rem + 0.15vw);}
 
 .content-0-0-9 { 
 /* this will hide the scrollbar in mozilla based browsers */
@@ -54,7 +54,7 @@ overflow: -moz-scrollbars-none;
   display: none; 
 }
 
-.container {line-height:1.8;}
+.container {line-height:1.6;}
 .inside a.icon-font {font-size:36px;}
 .inside a.icon-font {
   opacity: 0.35;
@@ -87,7 +87,14 @@ body::before {
   box-shadow: 0px 0 10px rgba(0, 0, 0, 0.8);
   z-index: 100;
 }
-
+.icon-twitter {
+  width: 0.9287109375em;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
 
 `}
 </style>

@@ -17,9 +17,17 @@ __BEISPIEL:__ »Was ist mit Spucke?« »Spucke trägt Halskrause. Ist beim Abspr
 
 > :Footnotes
 
+****
 
+## anatomke
 
-> :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
+__DEFINICIJA:__ __a__ tajice __b__ uske tole __AUF DEUTSCH:__ __a__ Leggins, Yogahosen __b__ strammes Beinkleid, das dir eine Menge Material zeight – _wörtlich:_ die Anatomischen.[_Die Anatomischen?_ Klingt wie ’ne Gruppe von Superheldinnen: Frau Eng, Frau Feucht & Frau Geil in der Verfilmung: _Böse Männer werden gefickt!_](:Footnote)
+
+__PRIMJER:__ »Jebale im __anatomke__ mater.« »Sta nam fali oči pariti?« »Samo kuži one dugonoge!« »Gdje ba?« »Ima li šta jače od ravničarke u tajicama?« »Imaš ti.« »Sve joj se na tijelu isušilo. Sve. Osim onog komilinog papka od sočnih usnica.« »Ti si bolan papak.« »Viri da te za kitu ujede.«
+
+> :Footnotes
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
 ### Briši greške
 

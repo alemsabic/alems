@@ -15,8 +15,8 @@ export function Header(config: CodedocConfig, renderer: any) {
           colorLight={'Dark'}
           colorDark={'Dark'}
           standardIcon={config.misc.github.standardIcon !== false}/>
-        <br/><br/>
       </fragment>
+      
       : ''}
      </_Header>
   )
