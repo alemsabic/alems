@@ -9,7 +9,14 @@
 <br><br>
 
 
-## altfranzösich
+## altfranzösisch
+
+
+> :Small
+>
+> alt|fran|zö|sisch, Adjektiv
+
+
 
 __DEFINITION:__ Blowjob von einer Oma. Im Idealfall ohne das störende Kauwerkzeug.[Das _alt-_ in _altfranzösisch_ ist (wie das _haut_ in _Hautgout_) das eigentliche Gütesiegel: Du musst erst einmal ins Alter kommen, um dir – zum Schwanzkauen – die komplette Klaviatur rausnehmen zu können.](:Footnote) __NA BOSANSKOM:__ Pušiona od nane – _bukvalno:_ starofrancuski.
 
@@ -20,6 +27,10 @@ __BEISPIEL:__ »Was ist mit Spucke?« »Spucke trägt Halskrause. Ist beim Abspr
 ****
 
 ## anatomke
+
+> :Small
+>
+> ženski rod, množina
 
 __DEFINICIJA:__ __a__ tajice __b__ uske tole __AUF DEUTSCH:__ __a__ Leggins, Yogahosen __b__ strammes Beinkleid, das dir eine Menge Material zeight – _wörtlich:_ die Anatomischen.[_Die Anatomischen?_ Klingt wie ’ne Gruppe von Superheldinnen: Frau Eng, Frau Feucht & Frau Geil in der Verfilmung: _Böse Männer werden gefickt!_](:Footnote)
 
