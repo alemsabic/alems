@@ -39,7 +39,7 @@ h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
 
 h1{font-size: calc(2rem + 1.8vw);}
 h2 {font-size: calc(1.2rem + 1.1vw);}
-h3 {font-size: calc(0.9rem + 0.7vw);}
+h3 {font-size: calc(0.85rem + 0.6vw);}
 .container p, .container ol, .container ul {font-size: calc(1rem + 0.15vw);}
 
 .content-0-0-9 { 
@@ -87,7 +87,7 @@ body::before {
 }
 
 body h1::after {
-  content: " |";
+  content: " ...|";
   opacity: 0.5;
 }
 

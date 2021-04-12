@@ -10,8 +10,9 @@
 
 ## bagerke
 
-__DEFINICIJA:__ cipele s debelim đonom.
-__PRIMJER:__ »Juče ti bivšu vidio. Ženska nema žive veze o modi. Umjesto štiklica uz suknjicu ona nabila __bagerke__. Još one nogice tanke? Meni vala ista _Minnie Mouse_.«
+__DEFINICIJA:__ cipele s debelim đonom. __AUF DEUTSCH:__ dickbesohlte Schuhe; die Sohlen sehen aus wie das Raupenfahrwerk vom Bagger.
+
+__PRIMJER:__ »Juče ti bivšu vidio. Ženska nema žive veze o modi. Umjesto štiklica uz suknjicu ona nabila __bagerke__. Još one nogice tanke? Ista _Minnie Mouse_.«
 
 ****
 
@@ -27,7 +28,7 @@ __PRIMJER:__ »Cura ti, sine, želi topli krevet da se ljulja – grli, mazi, gu
 
 __DEFINICIJA:__ muški spolni ud. __AUF DEUTSCH:__ Penis. Wörtlich: (Das) Bananchen.
 
-__PRIMJER:__ »Opet me starka naložila. Kratko mi blizance pokazala, i to je to. __Bananko__ se evo iskrivio od muke. Ko će sad, majko mila, opet patku šamarati?«
+__PRIMJER:__ »Opet me starka naložila. Kratko mi blizance pokazala, i to je to. __Bananko__ se iskrivio od muke. Ko će sad, majko mila, opet patku šamarati?«
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
