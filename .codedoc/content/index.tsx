@@ -33,9 +33,9 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 
 <style>
 {`
-h2 {line-height:1.3;}
-h3 {line-height:1.3;}
-h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
+h2 {line-height:1.3;font-weight:500;}
+h3 {line-height:1.3;font-weight:500;}
+h1 {line-height:1.3; text-transform:uppercase; text-align:center;font-weight:500;}
 
 h1{font-size: calc(2rem + 1.8vw);}
 h2 {font-size: calc(1.2rem + 1.1vw);}
@@ -87,10 +87,13 @@ body::before {
 }
 
 body h1::after {
-  content: " ...|";
+  content: "_";
   opacity: 0.5;
 }
 
+b, strong {
+  font-weight: 500;
+}
 
 `}
 </style>
