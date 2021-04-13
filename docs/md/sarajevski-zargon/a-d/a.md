@@ -30,7 +30,7 @@ __BEISPIEL:__ »Was ist mit Spucke?« »Spucke trägt Halskrause. Ist beim Abspr
 
 ## anatomke
 
-__DEFINICIJA:__ __a__ tajice __b__ uske tole __AUF DEUTSCH:__ __a__ Leggins, Yogahosen __b__ strammes Beinkleid, das dir eine Menge Material zeight – wörtlich: die Anatomischen.[_Die Anatomischen?_ Klingt wie ’ne Gruppe von Superheldinnen: Frau Eng, Frau Feucht & Frau Geil in der Verfilmung: _Böse Männer werden gefickt._](:Footnote)
+__DEFINICIJA:__ __a__ tajice __b__ uske tole __AUF DEUTSCH:__ __a__ Leggins, Yogahosen __b__ strammes Beinkleid, das dir eine Menge Material zeight – wörtlich: die Anatomischen[_Die Anatomischen?_ Klingt wie ’ne Gruppe von Superheldinnen: Frau Eng, Frau Feucht & Frau Geil in der Verfilmung: _Böse Männer werden gefickt._](:Footnote).
 
 __PRIMJER:__ »Jebale im __anatomke__ mater.« »Sta nam fali oči pariti?« »Samo kuži one dugonoge!« »Gdje ba?« »Ima li šta jače od ravničarke u tajicama?« »Imaš ti u kupaćim.« »Sve joj se na tijelu isušilo. Sve. Osim kamilinog papka sočnih usnica. Žiku bolan!« »Ti si, kako ja vidim, jedini papak u blizini.«
 
@@ -40,7 +40,7 @@ __PRIMJER:__ »Jebale im __anatomke__ mater.« »Sta nam fali oči pariti?« »S
 
 ## antifriz
 
-__DEFINICIJA:__ __a__ loša frizurica __b__ žestoko piće.  __AUF DEUTSCH:__ __a__ Dreckshaarschnitt – wörtlich: Anti-Frizur __b__ Schnaps mit hohem Alkoholgehalt.[Gemeint ist hier antifriz in der Bedeutung von _antifreeze_, dem englischen Wort für Frostschutzmittel.](:Footnote)
+__DEFINICIJA:__ __a__ loša frizurica __b__ žestoko piće.  __AUF DEUTSCH:__ __a__ Dreckshaarschnitt – wörtlich: Anti-Frizur __b__ Schnaps mit hohem Alkoholgehalt[Gemeint ist hier antifriz in der Bedeutung von _antifreeze_, dem englischen Wort für Frostschutzmittel.](:Footnote).
 
 
 __PRIMJER:__ »Ti nabacila __antifriz__ da fura uz prljave starke? Da se uklopiš u narkomansku raju? Na kraju desno ti je WC. Da si se umila i počešljala. Šta ba _kad_? Sad!«

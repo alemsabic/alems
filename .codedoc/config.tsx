@@ -40,7 +40,7 @@ export const config = /*#__PURE__*/configuration({
     fonts: {                             // --> font settings
       text: {                            // --> font used for texts
         url:                             // --> URL of font used for texts
-          'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&display=swap',
+          'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&display=swap',
         name: 'IBM Plex Mono',                    // --> name of font used for texts
         fallback: 
         `'Courier New', Courier, monospace`           // --> the fallback font for texts
