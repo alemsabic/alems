@@ -84,7 +84,7 @@ misc: {
     standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
   },
   gitter: {
-    room: 'alems-org/community'  // --> id of the Gitter room for the project
+    room: 'govor_ulice/community'  // --> id of the Gitter room for the project
   }
 },
 markdown: {
