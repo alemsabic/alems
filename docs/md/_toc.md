@@ -1,4 +1,4 @@
-[alems.org](/)
+[sarajevski.com](/)
 
 <br><br>
 
@@ -51,7 +51,3 @@
 > [Z](/sarajevski-zargon/ss-zz/z)
 > [Ž](/sarajevski-zargon/ss-zz/zz)
 
-<br><br>
-
-[kontakt](/kontakt)
-[x.alems.org](https://x.alems.org)

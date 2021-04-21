@@ -5,7 +5,7 @@ export const theme = /*#__PURE__*/createTheme({
   light: {
     background: '#fffd83',           // --> CSS color string, background of the page
     text: '#555',            // --> CSS color string, color of text
-    primary: '#9d9dd8',             // --> CSS color string, primary color (for buttons, links, etc)
+    primary: 'rgba(0,0,0,0.4)',            // --> CSS color string, primary color (for buttons, links, etc)
     primaryContrast: '#fffd83',      // --> CSS color string, text color on primary background (e.g. buttons)
     border: 'rgba(0,0,0,0.2)',               // --> CSS color string, border colors
     code: '#555',                  // --> CSS color string, in-text code color
@@ -13,7 +13,7 @@ export const theme = /*#__PURE__*/createTheme({
   dark: {
     background: '#555',           // --> CSS color string, background of the page
     text: '#eee',              // --> CSS color string, color of text
-    primary: '#b4a142',            // --> CSS color string, primary color (for buttons, links, etc)
+    primary: 'rgba(255,255,255,0.4)',           // --> CSS color string, primary color (for buttons, links, etc)
     primaryContrast: '#555',  // --> CSS color string, text color on primary background (e.g. buttons)
     border: 'rgba(255,255,255,0.2)',      // --> CSS color string, border colors
     code: '#eee',                  // --> CSS color string, in-text code color
