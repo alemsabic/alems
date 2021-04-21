@@ -7,6 +7,9 @@
 
 # daska
 
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+
 ## Dachhase
 
 __DEFINITION:__ Katze. __NA BOSANSKOM:__ mačka. Bukvalno: krovni zec.

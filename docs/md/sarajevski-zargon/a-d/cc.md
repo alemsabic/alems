@@ -7,7 +7,11 @@
 
 # čale
 
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
 ****
+
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 

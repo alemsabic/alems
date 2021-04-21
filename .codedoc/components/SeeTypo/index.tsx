@@ -11,7 +11,7 @@ export function SeeTypo(
   const pathname = window.location.pathname
   const hrefPostfix = ".md"
   const href = hrefPrefix + pathname + hrefPostfix
-  return <p>Ako nađeš grešku (a grešaka more) ili ako šta fali (a kako da ne fali?), onda možeš ovdje da <a href={href}> dotjeraš stranicu</a>. Hvala ti puno.</p> 
+  return <p>Ako nađeš grešku (a grešaka more), onda dotjeraj <a href={href}>ovdje</a> malo stranicu. Hvala.</p> 
 }
 
 export const SeeTypo$ = transport(SeeTypo);
