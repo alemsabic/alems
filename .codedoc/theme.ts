@@ -3,39 +3,41 @@ import { createTheme } from '@codedoc/core/transport';
 
 export const theme = /*#__PURE__*/createTheme({
   light: {
-    background: '#ff0',           // --> CSS color string, background of the page
-    text: '#111111',            // --> CSS color string, color of text
-    primary: '#111111',             // --> CSS color string, primary color (for buttons, links, etc)
-    primaryContrast: '#ff0',      // --> CSS color string, text color on primary background (e.g. buttons)
-    border: '#111111',               // --> CSS color string, border colors
-    code: '#111111',                  // --> CSS color string, in-text code color
+    background: '#fffd83',           // --> CSS color string, background of the page
+    text: '#555',            // --> CSS color string, color of text
+    primary: 'rgba(0,0,0,0.4)',            // --> CSS color string, primary color (for buttons, links, etc)
+    primaryContrast: '#fffd83',      // --> CSS color string, text color on primary background (e.g. buttons)
+    border: 'rgba(0,0,0,0.2)',               // --> CSS color string, border colors
+    code: '#555',                  // --> CSS color string, in-text code color
   },
   dark: {
-    background: '#000000',           // --> CSS color string, background of the page
-    text: '#69f0ae',              // --> CSS color string, color of text
-    primary: '#69f0ae',            // --> CSS color string, primary color (for buttons, links, etc)
-    primaryContrast: '#000000',  // --> CSS color string, text color on primary background (e.g. buttons)
-    border: '#69f0ae',      // --> CSS color string, border colors
-    code: '#69f0ae',                  // --> CSS color string, in-text code color
+    background: '#555',           // --> CSS color string, background of the page
+    text: '#eee',              // --> CSS color string, color of text
+    primary: 'rgba(255,255,255,0.4)',           // --> CSS color string, primary color (for buttons, links, etc)
+    primaryContrast: '#555',  // --> CSS color string, text color on primary background (e.g. buttons)
+    border: 'rgba(255,255,255,0.2)',      // --> CSS color string, border colors
+    code: '#eee',                  // --> CSS color string, in-text code color
   },
   quote: {
     dark: {
-      background: '#142850',
-      border: '#27496d',
+      background: '#555',
+      text: '#eee', 
+      border: 'rgba(255,255,255,0.2)',
     },
     light: {
-      background: '#f5f5f5',
-      text: '#757575',
+      background: '#fffd83',
+      text: '#555',
+      border: 'rgba(0,0,0,0.2)',
     },
   },
   toc: {                                 
     light: {
-      background: '#ff0',             // --> CSS color string, background of ToC
-      border: '#111111',                 // --> CSS color string, border of ToC
+      background: 'rgba(255,253,131,0.6)',             // --> CSS color string, background of ToC
+      border: 'rgba(0,0,0,0.2)',                 // --> CSS color string, border of ToC
     },
     dark: {
-      background: '#000000',             // --> CSS color string, background of ToC
-      border: '#69f0ae',                // --> CSS color string, border of ToC
+      background: 'rgba(85,85,85,0.6)',             // --> CSS color string, background of ToC
+      border: 'rgba(255,255,255,0.2)',                // --> CSS color string, border of ToC
     },             
   },
 });

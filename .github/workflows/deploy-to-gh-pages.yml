@@ -19,7 +19,9 @@ jobs:
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
           # copy assets
-          cp -a images/ dist/
+          cp -r images/ dist/images/
+          # mark no jekyll
+          touch dist/.nojekyll
           cp favicon.ico dist/
           cp favicon-16x16.png dist/
           cp favicon-32x32.png dist/
@@ -31,9 +33,6 @@ jobs:
           cp safari-pinned-tab.svg dist/
           cp site.webmanifest dist/
           cp utterances.json dist/
-          cp README.md dist/
-          cp logo-pink.png dist/
-          cp logo-dark.png dist/
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:

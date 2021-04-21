@@ -1,19 +1,154 @@
 
-# Fontsizes
 
-{`
+
+# Bosanski / Hrvatski / Srpski
+
+> :ToCPrevNext prev-label=Prethodna, next-label=Sljedeća
+
+### Komentariši
+
+> :DarkLight
+> > :InLight
+> >
+> > > :Utterances theme=github-light
+>
+> > :InDark
+> >
+> > > :Utterances theme=github-dark
+
+
+
+
+# Quotes
+"Scarlet! He! Ohara bona! Ohara bona! Hey! Rhett ovdje ba! Dao sam ti dvjesto dvadeset i tri minute fore da se filmski u mene zaljubiš. A ti ništa! Šta sad, kose moje duge, šta da radimo?"
+
+"Safe is one of those funny words. Sometimes means something different to the person who says it and the person who hears it." (Staffel 1, Episode 6, "Godless")
+
+
+»I to izgleda ne one obične kokošje ...« »Daj bolan.« »... nego one magične Argetice. Prijeratne.« »Jesi postao belaj.« »One ramazanske. U koje smo na kraju jezik gurali ko krpu. Da još i miris ufatimo.«
+
+
+"Der Mensch kann die einmal erblickte Wahrheit nicht ungesehen machen. Er kann nicht zurückkehren in die Dunkelheit oder erblinden, wenn ihm die Gabe des Sehens geschenkt wurde. Genau so wenig, wie er seine Geburt ungeschehen machen kann. Wir sind die einzige Spezies, die zur Selbstreflektion fähig ist. Die einzige Spezies mit dem Gift des Selbstzweifels eingeschrieben im genetischen Code. Entgegen unseren Gaben, bauen wir, kaufen wir, konsumieren wir. Wir hüllen uns ein in die Illusion materiellen Erfolgs. Wir betrügen und täuschen, während wir uns hinaufhangeln zum Gipfel dessen, was wir als Errungenschaft definieren -- die Überlegenheit gegenüber anderen." "Eine Heilung fürs Wohlbefinden (2016)"
+
+"Sicherheit ist eins dieser komischen Wörter. Bedeutet manchmal was anderes für die Person, die es sagt und die, die es hört." "Gottlos (2017)"
+
+> :Space
+
+<h1>ne kontam</h1>
+
+
+<div align="center"><p style="text-transform: uppercase; font-size: 20px;"><b>Govor ulice</b><br>Bosansko – Njemački</p>
+<p style="text-transform: uppercase; font-size: 20px;"><b>Straßensprache</b><br>Deutsch – Bosnisch</p></div>
+
+****
+
 html {font-size: 100%;}
 body {line-height: 1.8;}
-h2 {line-height:1.1;}
-h3 {line-height:1.1;}
-h1 {line-height:1.1;}
-h1{font-size: calc(1.3rem + 3.6vw);}
-h1{font-size: 2.25rem;}
-@media (min-width: 414px) {h1 {font-size: calc(1.3rem + 3.6vw);}}
-@media (min-width: 1440px) {h1 {font-size: 4.75rem;}}
-h2 {font-size: calc(1.25rem + 1.3vw);}
+h2 {line-height:1.3; text-transform:uppercase;}
+h3 {line-height:1.3; font-weight:normal; text-transform:uppercase;}
+h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
+h1{font-size: calc(1.3rem + 1.8vw);}
+h2 {font-size: calc(1.15rem + 1.2vw);}
 h3 {font-size: calc(0.9rem + 0.7vw);}
-.content-0-0-7 p, .text, .container p, .container ol, .container ul {font-size: calc(0.95rem + 0.3vw);}
-.contentnav-0-0-9 {font-size: calc(0.7rem + 0.3vw);}
+.container .text-0-0-15 p, div.source-0-0-16, .content-0-0-6 p, .text, .container p, .container ol, .container ul {font-size: calc(0.9rem + 0.3vw);}
+.container blockquote p {font-size: calc(0.85rem + 0.2vw);}
+.contentnav-0-0-8, .footnotes-0-0-13 {font-size: calc(0.7rem + 0.2vw);}
+.text-0-0-15 p {font-weight:bold;}
 sup {font-size:0.75em;}
-`}
+.inside a.icon-font {font-size:36px;}
+.inside a.icon-font {
+  opacity: 0.35;
+}
+.inside a.icon-font:hover {
+  opacity: 1;
+  text-decoration: none !important;
+}
+
+
+
+
+body.dark img {
+  opacity: 0.7;
+}
+code {
+  background: #ecea2b;
+}
+body.dark code {
+  background: #2f2f8e;
+}
+.footnotes-0-0-13:before {
+ content: ""; 
+ display: block;
+ width: 10%;
+ padding-top: 12px;
+ border-top: 1px solid;
+}
+ol {
+ counter-reset: cupcake;
+ padding-left: 1.6em;
+ list-style: none;
+}
+ol li {
+ counter-increment: cupcake;
+}
+ol li strong {
+ font-weight: 400;
+ 
+}
+
+ol ol li strong {
+ font-weight: 700;
+}
+ol li strong:before {
+ content: "⟩ ";
+ padding-left: .4em;
+ white-space: nowrap;
+}
+ol ol li strong:before {
+ content: "";
+ padding-left: 0;
+}
+ol li strong:after {
+ padding-right: 0.4em;
+ content: "";
+ white-space: nowrap;
+}
+ol ol li strong:after {
+ padding-right: 0;
+ content: " ";
+}
+ol li:before {
+ position: absolute;
+ content: counters(cupcake, '.') '.';
+ margin-left: -1.5em;
+}
+ol ol {
+ padding-left: 1.5em;
+}
+ol ol li:before {
+ position: absolute;
+ content: "▸ ";
+ margin-left: -1.5em;
+}
+
+
+You can use icons like [face](:Icon) in the middle of markdown.
+
+– (Dash)
+
+<a href="https://twitter.com/sarajevo"><svg class="icon-font icon-twitter" version="1.1" xmlns="http://www.w3.org/2000/svg" width="26" height="28" viewBox="0 0 26 28"><path d="M25.312 6.375c-0.688 1-1.547 1.891-2.531 2.609 0.016 0.219 0.016 0.438 0.016 0.656 0 6.672-5.078 14.359-14.359 14.359-2.859 0-5.516-0.828-7.75-2.266 0.406 0.047 0.797 0.063 1.219 0.063 2.359 0 4.531-0.797 6.266-2.156-2.219-0.047-4.078-1.5-4.719-3.5 0.313 0.047 0.625 0.078 0.953 0.078 0.453 0 0.906-0.063 1.328-0.172-2.312-0.469-4.047-2.5-4.047-4.953v-0.063c0.672 0.375 1.453 0.609 2.281 0.641-1.359-0.906-2.25-2.453-2.25-4.203 0-0.938 0.25-1.797 0.688-2.547 2.484 3.062 6.219 5.063 10.406 5.281-0.078-0.375-0.125-0.766-0.125-1.156 0-2.781 2.25-5.047 5.047-5.047 1.453 0 2.766 0.609 3.687 1.594 1.141-0.219 2.234-0.641 3.203-1.219-0.375 1.172-1.172 2.156-2.219 2.781 1.016-0.109 2-0.391 2.906-0.781z"></path></svg></a>
+
+.icon-twitter {
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+> :Center
+> 
+> > :Button label=Twitter.com/Sarajevo, url=https://twitter.com/sarajevo
+
+
+Wenn sich die Fußnote auf den ganzen Satz bezieht, steht die Ziffer nach dem schließenden Satzzeichen; wenn die Fußnote sich nur auf das unmittelbar vorangehende Wort oder die unmittelbar vorangehende Wortgruppe bezieht, steht die Ziffer vor dem schließenden Satzzeichen.

@@ -4,7 +4,8 @@ import { Header as _Header, GithubButton } from '@codedoc/core/components';
 
 export function Header(config: CodedocConfig, renderer: any) {
   return (
-    <_Header>{config.misc?.github ?
+    <_Header>
+      {config.misc?.github ?
       <fragment>
         <GithubButton action={config.misc.github.action || 'Star'}
           repo={config.misc.github.repo}
@@ -14,9 +15,10 @@ export function Header(config: CodedocConfig, renderer: any) {
           colorLight={'Dark'}
           colorDark={'Dark'}
           standardIcon={config.misc.github.standardIcon !== false}/>
-        <br/><br/>
       </fragment>
+      
       : ''}
      </_Header>
   )
 }
+
