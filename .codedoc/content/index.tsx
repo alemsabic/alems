@@ -85,7 +85,14 @@ body::before {
   box-shadow: 0px 0 10px rgba(0, 0, 0, 0.8);
   z-index: 100;
 }
-
+body h1::after {
+  content: " ]";
+  opacity: 0.5;
+}
+body h1::before {
+  content: "[ ";
+  opacity: 0.5;
+}
 
 `}
 </style>
