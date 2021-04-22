@@ -1,7 +1,7 @@
-> :Hero src=/images/odrgon-schwarz.svg,
+> :Hero src=/images/odron-schwarz.svg,
 >       mode=light
 
-> :Hero src=/images/odrgon.svg,
+> :Hero src=/images/odron.svg,
 >       mode=dark
 
 # odron
