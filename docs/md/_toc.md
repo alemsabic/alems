@@ -1,8 +1,8 @@
-<h2><a href="/" class="">SARAJEVSKI</a></h2>
+<h2><a href="/" class="">sarajevski.com</a></h2>
 
 <br><br>
 
-<p style="padding-bottom:16px;"><b>GOVOR ULICE (BOSANSKO-NJEMAČKI)</b></p>
+<p style="padding-bottom:16px;"><b>GOVOR ULICE (BS – DE)</b></p>
 
 > :Collapse label=A-D
 >
@@ -55,16 +55,15 @@
 
 <br><br>
 
-<p style="padding-bottom:16px;"><b>STRAßENSPRACHE (NJEMAČKO-BOSANSKI)</b></p>
+<p style="padding-bottom:16px;"><b>STRAßENSPRACHE (DE – BS)</b></p>
 
 > :Collapse label=A-E
 >
-> [A](/umgangsprache/a-d/a)
-> [B](/umgangsprache/a-d/b)
-> [C](/umgangsprache/a-d/c)
-> [Č](/umgangsprache/a-d/cc)
-> [Ć](/umgangsprache/a-d/ccc)
-> [D](/umgangsprache/a-d/d)
+> [A](../umgangsprache/a-e/a)
+> [B](/umgangsprache/a-e/b)
+> [C](/umgangsprache/a-e/c)
+> [D](/umgangsprache/a-e/d)
+> [E](/umgangsprache/a-e/e)
 >
 
 > :Collapse label=F-J

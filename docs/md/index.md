@@ -8,9 +8,7 @@
 
 <h2 style="text-align:center;">Straßensprache</h2>
 
-<h3 style="text-align:center; line-height:1.5;">Bosansko – njemački,<br> njemačko – bosanski,<br> rječnik žargona.</h3>
-
-> :Footnotes
+<h3 style="text-align:center; line-height:1.5;">Bosansko – njemački,<br> njemačko – bosanski<br> rječnik žargona.</h3>
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
