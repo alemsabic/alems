@@ -1,26 +1,15 @@
-> :Hero src=/images/kita-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/kita.svg,
->       mode=dark
-
-# kita
-
-
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-****
-
-
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
-### Briši greške
+# k
 
 > :SeeTypo$
 
 ****
 
-### Komentari
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+****
 
 > :DarkLight
 > > :InLight

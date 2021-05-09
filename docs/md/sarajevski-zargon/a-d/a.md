@@ -1,18 +1,18 @@
-> :Hero src=/images/avion-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/avion.svg,
->       mode=dark
-
-# avion
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+
+# a
+
+> :SeeTypo$
+
+****
 
 ## ablendovati
 
 __DEFINICIJA:__ namigivati, dizati obrve; u daljem smislu: flertovati, koketirati; perifraza: davati signale s očima.[Zapravo ablendovati znači davati signale s farovima.](:Footnote) __AUF DEUTSCH__ zwinkern, blinzeln, die Brauen heben und senken; im weiteren Sinne: flirten, kokettieren; Umschreibung: mit den Augen plinkern.[Eigentlich meint ablendovati _lichthupen_, also mit den Scheinwerfern (im übertragenden Sinne: den Augen) etwas zu signalisieren.](:Footnote)
 
-__PRIMJER:__ »Vidi što mala baca farove.« »Baca mala sve ... osim pogleda.« »__Ablenduje__.« »Obična alergija. Oke je svrbe.« »Jesi težak frajer.« »Ja vrabac. Ti ćoro teški.« »Teži si od voza.«
+__PRIMJER:__ »Vidi što mala baca farove.« »Baca mala sve ... osim pogleda.« »__Ablenduje__.« »Obična alergija. Oke je svrbe.« »Jesi težak frajer.« »Ja vrabac. Ti ćoro teški.« »Teži si od voza, musafa mi.«
 
 > :Footnotes
 
@@ -36,17 +36,12 @@ __DEFINICIJA:__ __a__ loša frizurica __b__ žestoko piće.  __AUF DEUTSCH:__ __
 __PRIMJER:__ »Ti nabacila __antifriz__ da fura uz prljave starke? Da se uklopiš u narkomansku raju? Na kraju desno ti je WC. Da si se umila i počešljala. Šta ba _kad_? Sad!«
 
 > :Footnotes
+
 ****
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-### Briši greške
-
-> :SeeTypo$
-
 ****
-
-### Komentari
 
 > :DarkLight
 > > :InLight

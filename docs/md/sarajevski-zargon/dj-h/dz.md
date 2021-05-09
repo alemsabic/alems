@@ -1,26 +1,16 @@
-> :Hero src=/images/dzek-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/dzek.svg,
->       mode=dark
-
-# džek
-
-
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-****
 
-
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
-### Briši greške
+# dž
 
 > :SeeTypo$
 
 ****
 
-### Komentari
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+****
 
 > :DarkLight
 > > :InLight

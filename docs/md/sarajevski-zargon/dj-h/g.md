@@ -1,26 +1,16 @@
-> :Hero src=/images/gabor-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/gabor.svg,
->       mode=dark
-
-# gabor
-
-
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-****
+# g
 
-
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
-### Briši greške
 
 > :SeeTypo$
 
 ****
 
-### Komentari
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+****
 
 > :DarkLight
 > > :InLight

@@ -1,8 +1,13 @@
-<h2><a href="/" class="">sarajevski.com</a></h2>
+<b><a href="/" class="">SARAJEVSKI.com</a></b>
+
 
 <br><br>
 
-<p style="padding-bottom:16px;"><b>GOVOR ULICE (BS – DE)</b></p>
+<a href="https://www.twitter.com/sarajevo" class="">Twitter.com/Sarajevo</a>
+
+<br><br>
+
+<p style="padding-bottom:16px;"><b>BS – DE</b></p>
 
 > :Collapse label=A-D
 >
@@ -55,53 +60,50 @@
 
 <br><br>
 
-<p style="padding-bottom:16px;"><b>STRAßENSPRACHE (DE – BS)</b></p>
+<p style="padding-bottom:16px;"><b>DE – BS</b></p>
 
 > :Collapse label=A-E
 >
-> [A](../umgangsprache/a-e/a)
-> [B](/umgangsprache/a-e/b)
-> [C](/umgangsprache/a-e/c)
-> [D](/umgangsprache/a-e/d)
-> [E](/umgangsprache/a-e/e)
+> [A](/umgangssprache/a-e/a)
+> [B](/umgangssprache/a-e/b)
+> [C](/umgangssprache/a-e/c)
+> [D](/umgangssprache/a-e/d)
+> [E](/umgangssprache/a-e/e)
 >
 
 > :Collapse label=F-J
 >
-> [Đ](/umgangsprache/dj-h/dj)
-> [DŽ](/umgangsprache/dj-h/dz)
-> [E](/umgangsprache/dj-h/e)
-> [F](/umgangsprache/dj-h/f)
-> [G](/umgangsprache/dj-h/g)
-> [H](/umgangsprache/dj-h/h)
+> [F](/umgangssprache/f-j/f)
+> [G](/umgangssprache/f-j/g)
+> [H](/umgangssprache/f-j/h)
+> [I](/umgangssprache/f-j/i)
+> [J](/umgangssprache/f-j/j)
 >
 
 > :Collapse label=K-O
 >
-> [I](/umgangsprache/i-m/i)
-> [J](/umgangsprache/i-m/j)
-> [K](/umgangsprache/i-m/k)
-> [L](/umgangsprache/i-m/l)
-> [LJ](/umgangsprache/i-m/lj)
-> [M](/umgangsprache/i-m/m)
+> [K](/umgangssprache/k-o/k)
+> [L](/umgangssprache/k-o/l)
+> [M](/umgangssprache/k-o/m)
+> [N](/umgangssprache/k-o/n)
+> [O](/umgangssprache/k-o/o)
 >
 
 > :Collapse label=P-T
 >
-> [N](/umgangsprache/n-s/n)
-> [NJ](/umgangsprache/n-s/nj)
-> [O](/umgangsprache/n-s/o)
-> [P](/umgangsprache/n-s/p)
-> [R](/umgangsprache/n-s/r)
-> [S](/umgangsprache/n-s/s)
+> [P](/umgangssprache/p-t/p)
+> [Q](/umgangssprache/p-t/q)
+> [R](/umgangssprache/p-t/r)
+> [S](/umgangssprache/p-t/s)
+> [T](/umgangssprache/p-t/t)
 >
 
 > :Collapse label=U-Z
 >
-> [Š](/umgangsprache/ss-zz/ss)
-> [T](/umgangsprache/ss-zz/t)
-> [U](/umgangsprache/ss-zz/u)
-> [V](/umgangsprache/ss-zz/v)
-> [Z](/umgangsprache/ss-zz/z)
-> [Ž](/umgangsprache/ss-zz/zz)
-
+> [U](/umgangssprache/u-z/u)
+> [V](/umgangssprache/u-z/v)
+> [W](/umgangssprache/u-z/w)
+> [X](/umgangssprache/u-z/x)
+> [Y](/umgangssprache/u-z/y)
+> [Z](/umgangssprache/u-z/z)
+>

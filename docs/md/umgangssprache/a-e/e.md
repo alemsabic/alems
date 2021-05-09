@@ -1,11 +1,8 @@
-> :Hero src=/images/ccale-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/ccale.svg,
->       mode=dark
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
 
-# čale
+
+# e
 
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica

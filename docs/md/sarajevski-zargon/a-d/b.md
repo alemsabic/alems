@@ -1,12 +1,11 @@
-> :Hero src=/images/baja-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/baja.svg,
->       mode=dark
-
-# baja
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+# b
+
+> :SeeTypo$
+
+****
 
 ## bagerke
 
@@ -30,15 +29,12 @@ __DEFINICIJA:__ penis. __AUF DEUTSCH:__ Penis. Wörtlich: (Das) Bananchen.
 
 __PRIMJER:__ »Opet me starka naložila. Kratko mi blizance pokazala, i to je to. __Bananko__ se iskrivio od muke. Ko će sad, majko mila, opet patku šamarati?«
 
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
-### Briši greške
-
-> :SeeTypo$
-
 ****
 
-### Komentari
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+
+****
 
 > :DarkLight
 > > :InLight

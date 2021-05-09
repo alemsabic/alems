@@ -1,26 +1,16 @@
-> :Hero src=/images/ddonas-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/ddonas.svg,
->       mode=dark
-
-# đonaš
-
-
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-****
 
-
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
-### Briši greške
+# đ
 
 > :SeeTypo$
 
 ****
 
-### Komentari
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+****
 
 > :DarkLight
 > > :InLight

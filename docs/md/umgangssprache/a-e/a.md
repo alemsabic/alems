@@ -1,8 +1,5 @@
-> :Hero src=/images/avion-schwarz.svg,
->       mode=light
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-> :Hero src=/images/avion.svg,
->       mode=dark
 
 # altfranzösisch
 

@@ -1,8 +1,5 @@
-> :Hero src=/images/baja-schwarz.svg,
->       mode=light
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-> :Hero src=/images/baja.svg,
->       mode=dark
 
 # b
 

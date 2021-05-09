@@ -1,26 +1,16 @@
-> :Hero src=/images/daska-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/daska.svg,
->       mode=dark
-
-
-# daska
-
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-
-
-
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
-### Briši greške
+# d
 
 > :SeeTypo$
 
 ****
 
-### Komentari
+
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+****
 
 > :DarkLight
 > > :InLight

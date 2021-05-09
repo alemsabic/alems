@@ -1,12 +1,10 @@
-> :Hero src=/images/prenos-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/prenos.svg,
->       mode=dark
-
-# prenos
-
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+# p
+
+> :SeeTypo$
+
+****
 
 ## paštetice
 
@@ -19,13 +17,7 @@
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-### Briši greške
-
-> :SeeTypo$
-
 ****
-
-### Komentari
 
 > :DarkLight
 > > :InLight

@@ -20,14 +20,14 @@ export const config = /*#__PURE__*/configuration({
   theme,                           // --> add the theme. modify `./theme.ts` for chaning the theme.
   page: {                                // @see /docs/config/page
     title: {
-      base: 'GOVOR ULICE | STRAßENSPRACHE',
+      base: 'SARAJEVSKI',
       connector: ' > ',
     },
       meta: {                              // --> meta tags of each page
-      subject: 'Govor ulice. Sarajevski žargon.',           // --> the subject meta tag for each page
-      description: 'Bosansko-njemački, njemačko-bosanski rječnik žargona. Uz neke izreke, fraze i poslovice.',          // --> description meta tag for each page
-      keywords: ['govor ulice', 'sarajevski žargon', 'Straßensprache'],                        
-      themeColor: '#555',             // --> the browser bar color of your docs
+      subject: 'Sarajevski žargon.',           // --> the subject meta tag for each page
+      description: 'Bosansko-njemački, njemačko-bosanski rječnik sarajevskog žargona. Uz neke izreke, fraze i poslovice.',          // --> description meta tag for each page
+      keywords: ['sarajevski žargon', 'rječnik sarajevskog žargona'],                        
+      themeColor: '#FEF720',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
     },
@@ -40,7 +40,7 @@ export const config = /*#__PURE__*/configuration({
     fonts: {                             // --> font settings
       text: {                            // --> font used for texts
         url:                             // --> URL of font used for texts
-          'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap',
+          'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&display=swap',
         name: 'IBM Plex Mono',                    // --> name of font used for texts
         fallback: 
         `'Courier New', Courier, monospace`           // --> the fallback font for texts
@@ -61,7 +61,6 @@ export const config = /*#__PURE__*/configuration({
       }
     },                     
     stylesheets: [
-      <meta name="robots" content="noindex"/>,
     ],                     
     post: [
     ],                            
