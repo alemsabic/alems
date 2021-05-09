@@ -7,7 +7,7 @@ export const theme = /*#__PURE__*/createTheme({
     text: '#222',            // --> CSS color string, color of text
     primary: 'rgba(102,83,255,0.9)',            // --> CSS color string, primary color (for buttons, links, etc)
     primaryContrast: '#FEF720',      // --> CSS color string, text color on primary background (e.g. buttons)
-    border: 'rgba(102,83,255,0.9)',               // --> CSS color string, border colors
+    border: 'rgba(102,83,255,0.7)',               // --> CSS color string, border colors
     code: '#222',                  // --> CSS color string, in-text code color
   },
   dark: {

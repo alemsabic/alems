@@ -54,7 +54,6 @@ overflow: -moz-scrollbars-none;
   display: none; 
 }
 
-.container {line-height:1.3;}
 .inside a.icon-font {font-size:36px;}
 .inside a.icon-font, .inside hr {
   opacity: 0.35;

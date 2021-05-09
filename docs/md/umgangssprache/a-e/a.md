@@ -1,10 +1,10 @@
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
+# a
 
-# altfranzösisch
+> :SeeTypo$
 
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
+****
 
 ## altfranzösisch
 
@@ -38,13 +38,7 @@ __BEISPIEL:__ Der schleift die Kleine in der Küche, bis der das __Arschwasser__
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-### Briši greške
-
-> :SeeTypo$
-
 ****
-
-### Komentari
 
 > :DarkLight
 > > :InLight
