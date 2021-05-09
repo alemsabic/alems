@@ -35,28 +35,28 @@ export function content(_content: HTMLElement, toc: HTMLElement, renderer: Rende
 {`
 h2 {line-height:1.3;}
 h3 {line-height:1.3;}
-h1 {line-height:1.3; text-transform:uppercase; text-align:center;}
+h1 {line-height:1.3; text-transform:uppercase;}
 
-h1{font-size: calc(2rem + 1.8vw);}
+h1{font-size: calc(1.8rem + 1.8vw);}
 h2 {font-size: calc(1.2rem + 1.1vw);}
 h3 {font-size: calc(0.85rem + 0.6vw);}
 .container p, .container ol, .container ul {font-size: calc(1rem + 0.15vw);}
 
-.content-0-0-9 { 
+.content-0-0-12 { 
 /* this will hide the scrollbar in mozilla based browsers */
 overflow: -moz-scrollbars-none;
 /* this will hide the scrollbar in internet explorers */
 -ms-overflow-style: none;
 }
 
-.content-0-0-9::-webkit-scrollbar { 
+.content-0-0-12::-webkit-scrollbar { 
   width: 0 !important;
   display: none; 
 }
 
-.container {line-height:1.6;}
+.container {line-height:1.3;}
 .inside a.icon-font {font-size:36px;}
-.inside a.icon-font {
+.inside a.icon-font, .inside hr {
   opacity: 0.35;
 }
 .inside a.icon-font:hover {
@@ -84,14 +84,6 @@ body::before {
   height: 10px;
   box-shadow: 0px 0 10px rgba(0, 0, 0, 0.8);
   z-index: 100;
-}
-body h1::after {
-  content: " ]";
-  opacity: 0.5;
-}
-body h1::before {
-  content: "[ ";
-  opacity: 0.5;
 }
 
 `}

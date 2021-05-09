@@ -1,10 +1,8 @@
-> :Hero src=/images/ekser-schwarz.svg,
->       mode=light
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-> :Hero src=/images/ekser.svg,
->       mode=dark
 
-# ekser
+
+# e
 
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica

@@ -1,26 +1,15 @@
-> :Hero src=/images/ekser-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/ekser.svg,
->       mode=dark
-
-# ekser
-
-
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-****
-
-
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
-
-### Briši greške
+# e
 
 > :SeeTypo$
 
 ****
 
-### Komentari
+
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+
+****
 
 > :DarkLight
 > > :InLight

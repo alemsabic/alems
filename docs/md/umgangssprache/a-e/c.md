@@ -1,12 +1,8 @@
-> :Hero src=/images/cccuza-schwarz.svg,
->       mode=light
-
-> :Hero src=/images/cccuza.svg,
->       mode=dark
+> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
 
-# ćuza
 
+# C
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
