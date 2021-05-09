@@ -2,10 +2,6 @@
 
 <br><br>
 
-<a href="https://www.twitter.com/sarajevo" class="">Twitter.com/Sarajevo</a>
-
-<br><br>
-
 <p style="padding-bottom:16px;"><b>BS – DE</b></p>
 
 > :Collapse label=A-D
@@ -106,6 +102,4 @@
 > [Y](/umgangssprache/u-z/y)
 > [Z](/umgangssprache/u-z/z)
 >
-
-<br><br>
 
