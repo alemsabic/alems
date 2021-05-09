@@ -27,7 +27,7 @@ export const config = /*#__PURE__*/configuration({
       subject: 'Sarajevski žargon.',           // --> the subject meta tag for each page
       description: 'Bosansko-njemački, njemačko-bosanski rječnik sarajevskog žargona. Uz neke izreke, fraze i poslovice.',          // --> description meta tag for each page
       keywords: ['sarajevski žargon', 'rječnik sarajevskog žargona'],                        
-      themeColor: '#FEF720',             // --> the browser bar color of your docs
+      themeColor: '#222',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
     },
