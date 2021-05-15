@@ -1,10 +1,6 @@
-<b><a href="/" class="">SARAJEVSKI.com</a></b>
+<a href="/" class="">Kako Sarajevo priča</a>
 
-<br><br>
-
-<p style="padding-bottom:16px;"><b>BS – DE</b></p>
-
-> :Collapse label=A-D
+> :Collapse label= - Od A do D
 >
 > [A](/sarajevski-zargon/a-d/a)
 > [B](/sarajevski-zargon/a-d/b)
@@ -53,11 +49,9 @@
 > [Z](/sarajevski-zargon/ss-zz/z)
 > [Ž](/sarajevski-zargon/ss-zz/zz)
 
-<br><br>
 
-<p style="padding-bottom:16px;"><b>DE – BS</b></p>
 
-> :Collapse label=A-E
+> :Collapse label= - Von A bis E
 >
 > [A](/umgangssprache/a-e/a)
 > [B](/umgangssprache/a-e/b)
