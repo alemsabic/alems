@@ -62,10 +62,6 @@ overflow: -moz-scrollbars-none;
   opacity: 0.35;
 }
 
-body, .footer-0-0-10, a.current {
-  background-image: url(/images/noise.png) !important;
-}
-
 body .inside a.icon-font {
   color: rgba(17,17,17);
 }

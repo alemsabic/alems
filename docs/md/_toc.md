@@ -1,6 +1,6 @@
-<a href="/" class="">ALEMS.ORG</a>
+<a href="/" class="">Alems.org</a>
 
-> :Collapse label= — Riječi SARAJEVSKOG ŽARGONA od A do D
+> :Collapse label= — Riječi sarajevskog žargona od A do D
 >
 > [A](/sarajevski-zargon/a-d/a)
 > [B](/sarajevski-zargon/a-d/b)
@@ -51,7 +51,7 @@
 
 
 
-> :Collapse label= — Wörter der DEUTSCHEN UMGANGSSPRACHE von A bis E
+> :Collapse label= — Wörter der deutschen Umgangssprache von A bis E
 >
 > [A](/umgangssprache/a-e/a)
 > [B](/umgangssprache/a-e/b)

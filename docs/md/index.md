@@ -1,8 +1,8 @@
 > :Hero src=/images/alems-white.svg,
->       mode=light
+>       mode=light, target=desktop
 
 > :Hero src=/images/alems.svg,
->       mode=dark
+>       mode=dark, target=desktop
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
