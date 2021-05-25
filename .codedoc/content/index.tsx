@@ -38,7 +38,7 @@ h3 {line-height:1.3;}
 h1 {line-height:1.3; text-transform:uppercase;}
 
 h1{font-size: calc(2rem + 1.8vw);}
-h2 {font-size: calc(1.2rem + 1.1vw);}
+h2 {font-size: calc(1.6rem + 1.1vw);}
 h3 {font-size: calc(0.85rem + 0.6vw);}
 .container p, .container ol, .container ul {font-size: calc(1rem + 0.15vw);}
 
@@ -53,10 +53,27 @@ overflow: -moz-scrollbars-none;
   display: none; 
 }
 
-.inside a.icon-font {font-size:36px;}
-.inside a.icon-font, .inside hr {
+.cs--holder-4 {
+  opacity:1;
+}
+
+.inside a.icon-font {
+  font-size:36px;
   opacity: 0.35;
 }
+
+body, .footer-0-0-10, a.current {
+  background-image: url(/images/noise.png) !important;
+}
+
+body .inside a.icon-font {
+  color: rgba(17,17,17);
+}
+
+body.dark .inside a.icon-font {
+  color: rgba(105,240,174);
+}
+
 .inside a.icon-font:hover {
   opacity: 1;
   text-decoration: none !important;

@@ -1,6 +1,6 @@
-<a href="/" class="">Kako Sarajevo priča</a>
+<a href="/" class="">ALEMS.ORG</a>
 
-> :Collapse label= - Od A do D
+> :Collapse label= — Riječi SARAJEVSKOG ŽARGONA od A do D
 >
 > [A](/sarajevski-zargon/a-d/a)
 > [B](/sarajevski-zargon/a-d/b)
@@ -51,7 +51,7 @@
 
 
 
-> :Collapse label= - Von A bis E
+> :Collapse label= — Wörter der DEUTSCHEN UMGANGSSPRACHE von A bis E
 >
 > [A](/umgangssprache/a-e/a)
 > [B](/umgangssprache/a-e/b)

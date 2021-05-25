@@ -21,7 +21,7 @@ export const config = /*#__PURE__*/configuration({
   page: {                                // @see /docs/config/page
     title: {
       base: 'SARAJEVSKI',
-      connector: ' > ',
+      connector: '|',
     },
       meta: {                              // --> meta tags of each page
       subject: 'Sarajevski žargon.',           // --> the subject meta tag for each page
