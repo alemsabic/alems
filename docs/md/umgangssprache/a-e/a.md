@@ -1,8 +1,17 @@
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+> :ToCPrevNext prev-label=Vorherige Seite, next-label=Nächste Seite
 
 # a
 
 > :SeeTypo$
+
+****
+
+## Ackerblume
+
+__DEFINITION:__ Bäuerin. __NA BOSANSKOM:__ seljanka. Bukvalno: livadni cvijet.
+
+__BEISPIEL:__ »Marco vögelt jetzt ’ne Alte vom Land?« »Sie ihn.« »Na ’ne **Ackerblume** weiß wenigstens, wie richtig gemolken wird.«
+
 
 ****
 
@@ -26,7 +35,7 @@ __BEISPIEL:__ Ich sagte zum Fahrer: »Stell die Heizung runter, Mann. Hab schon 
 
 __DEFINITION:__ Angst kriegen. __NA BOSANSKOM:__ prestrašiti se.
 
-__BEISPIEL:__ »Der Scheißer hat sich in Luft aufgelöst.« »Warte, Mann, der kommt wieder.« »Schwanz kommt der wieder. Der ist weg. Wie’n Furz im Winterwind. Hat’s __Arschwasser__ gekriegt.«
+__BEISPIEL:__ »Der Scheißer hat sich in Luft aufgelöst.« »Warte, Mann, der kommt wieder.« »Schwanz kommt der wieder. Der ist weg. Wie ’n Furz im Winterwind. Hat’s __Arschwasser__ gekriegt.«
 
 ###  bis das Arschwasser kocht
 
@@ -36,9 +45,17 @@ __BEISPIEL:__ Der schleift die Kleine in der Küche, bis der das __Arschwasser__
 
 ****
 
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+## Asphaltlutscher
 
-****
+
+__DEFINITION:__ Tiefergelegte Karre. Eine, die so tief liegt, dass sie den Asphalt lutscht. __NA BOSANSKOM:__ toliko spuštena kola da skoro asfalt ližu. Bukvalno: asfaltno lizalo.
+
+
+__BEISPIEL:__ Ich erzählte Didi grade die Sache mit meiner Ex: »Und dann sagt sie zu mir: ›Ich verlass dich.‹ Ich sag: ›Bull*shit*.‹ Sie sagt: ›Ich hab mich verliebt.‹ ›_Verliebt?_‹ ›Ich hab ihn dir vorgestellt.‹ Ich überlege und überlege und sage: ›Wann?‹ Sie erzählt und erzählt und ich komm nicht drauf. Dann sag ich: ›Du meinst doch nicht den kleinen Pisser im tiefergelegten Golf?‹ Das musst dir mal vorstellen. Ich kann mich an sein hässliches Auto erinnern. Aber *nicht an den Typen!* Ich meine, gut, wenn die Karre ’n fetter Porsche gewesen wäre. Scheiß was drauf. Aber ’n Wolfsburger **Asphaltlutscher**? Ein so hässliches Auto hat mehr Charackter als der Typ? Verpiss dich.« »Deine Ex ist blind.« »Sowas von!« »Auf beiden Augen. Sonst hätt sie mit dir Schwanzgesicht nichts angefangen.«
+
+> :Space
+
+> :ToCPrevNext prev-label=Vorherige Seite, next-label=Nächste Seite
 
 > :DarkLight
 > > :InLight

@@ -1,4 +1,4 @@
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+> :ToCPrevNext prev-label=Vorherige Seite, next-label=Nächste Seite
 
 # C
 

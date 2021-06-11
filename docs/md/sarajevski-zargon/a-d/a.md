@@ -1,11 +1,9 @@
 
 > :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
 
-# a
-
 > :SeeTypo$
 
-****
+# A
 
 ## ablendovati
 
