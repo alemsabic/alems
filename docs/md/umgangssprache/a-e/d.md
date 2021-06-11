@@ -1,4 +1,4 @@
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+> :ToCPrevNext prev-label=Vorherige Seite, next-label=Nächste Seite
 
 # d
 
@@ -15,7 +15,7 @@ __BEISPIEL:__ Sie traten ins dunkle Kühl der Kneipe. Sofort sah sich Džemo Dž
 
 ****
 
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
+> :ToCPrevNext prev-label=Vorherige Seite, next-label=Nächste Seite
 
 ****
 
