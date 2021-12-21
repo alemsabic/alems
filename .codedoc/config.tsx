@@ -77,7 +77,7 @@ dest: {
 misc: {
   github: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
-    repo: 'govor_ulice',         // --> name of the repo on GitHub
+    repo: 'alems',         // --> name of the repo on GitHub
     action: 'Issue',            // --> action of the GitHub button
     count: true,                // --> whether to show the `count` on the GitHub button
     standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
