@@ -24,14 +24,16 @@ export const config = /*#__PURE__*/configuration({
       connector: '|',
     },
       meta: {                              // --> meta tags of each page
-      subject: 'Sarajevski žargon.',           // --> the subject meta tag for each page
-      description: 'Bosansko-njemački, njemačko-bosanski rječnik sarajevskog žargona. Uz neke izreke, fraze i poslovice.',          // --> description meta tag for each page
-      keywords: ['sarajevski žargon', 'Deutsche Umgangssprache'],                        
+      subject: 'Alem Šabić',           // --> the subject meta tag for each page
+      description: 'Stranica Alem Šabića.',          // --> description meta tag for each page
+      keywords: ['Schreiben', 'Coaching'],                        
       themeColor: '#222',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
     },
     scripts: [
+      <link rel="preconnect" href="https://fonts.googleapis.com"/>,
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>,
       <link rel="manifest" href="/site.webmanifest"/>,
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>,
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>,
@@ -40,8 +42,8 @@ export const config = /*#__PURE__*/configuration({
     fonts: {                             // --> font settings
       text: {                            // --> font used for texts
         url:                             // --> URL of font used for texts
-          'https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300;400;700&display=swap',
-        name: 'Overpass Mono',                    // --> name of font used for texts
+          'https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400&display=swap',
+        name: 'Roboto Mono',                    // --> name of font used for texts
         fallback: 
         `'Courier New', Courier, monospace`           // --> the fallback font for texts
       },
