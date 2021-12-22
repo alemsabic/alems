@@ -70,7 +70,7 @@ export const config = /*#__PURE__*/configuration({
 dest: {
   namespace: '',
   html: 'dist',
-  assets: 'dist',
+  assets: 'dist/images',
   bundle: 'assets',               // --> where to store codedoc's bundle (relative to `assets`)
   styles: 'assets',               // --> where to store codedoc's styles (relative to `assets`)
 },
