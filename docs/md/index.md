@@ -3,8 +3,6 @@
 
 > :Hero src=/images/alems.svg,
 >       mode=dark
-
-> :ToCPrevNext prev-label=Prethodna stranica, next-label=Sljedeća stranica
  
 
 Pa gdje si ti, Aleme? Samo test. Aenean dictum pulvinar dui a bibendum. Proin posuere dignissim tristique. Nunc sit amet auctor velit, facilisis iaculis turpis. Aenean eget maximus nulla, eget ullamcorper risus. 
