@@ -32,8 +32,6 @@ export const config = /*#__PURE__*/configuration({
         'black-translucent',
     },
     scripts: [
-      <link rel="preconnect" href="https://fonts.googleapis.com"/>,
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>,
       <link rel="manifest" href="/site.webmanifest"/>,
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>,
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>,
