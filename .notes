@@ -16,7 +16,11 @@
 > >
 > > > :Utterances theme=github-dark
 
+> :Hero src=/images/alems-white.svg,
+>       mode=light, target=desktop
 
+> :Hero src=/images/alems.svg,
+>       mode=dark, target=desktop
 
 
 # Quotes
