@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.1
 
       - name: Build
         run: |
@@ -18,23 +18,9 @@ jobs:
           npm install @codedoc/cli
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
-          # copy assets
-          cp -r images/ dist/
-          # mark no jekyll
-          touch dist/.nojekyll
-          cp favicon.ico dist/
-          cp favicon-16x16.png dist/
-          cp favicon-32x32.png dist/
-          cp android-chrome-192x192.png dist/
-          cp android-chrome-384x384.png dist/
-          cp browserconfig.xml dist/
-          cp mstile-150x150.png dist/
-          cp apple-touch-icon.png dist/
-          cp safari-pinned-tab.svg dist/
-          cp site.webmanifest dist/
-          cp utterances.json dist/
+
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+        uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
