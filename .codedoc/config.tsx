@@ -24,9 +24,9 @@ export const config = /*#__PURE__*/configuration({
       connector: '|',
     },
       meta: {                              // --> meta tags of each page
-      subject: 'Alem Šabić',           // --> the subject meta tag for each page
-      description: 'Stranica Alem Šabića.',          // --> description meta tag for each page
-      keywords: ['Schreiben', 'Coaching'],                        
+      subject: 'Sarajevski žargon.',           // --> the subject meta tag for each page
+      description: 'Bosansko-njemački, njemačko-bosanski rječnik sarajevskog žargona. Uz neke izreke, fraze i poslovice.',          // --> description meta tag for each page
+      keywords: ['sarajevski žargon', 'Deutsche Umgangssprache'],                        
       themeColor: '#222',             // --> the browser bar color of your docs
       appleMobileWebStatusBarStyle:      // --> same as above, but for iOS Safari
         'black-translucent',
@@ -40,8 +40,8 @@ export const config = /*#__PURE__*/configuration({
     fonts: {                             // --> font settings
       text: {                            // --> font used for texts
         url:                             // --> URL of font used for texts
-          'https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400&display=swap',
-        name: 'Roboto Mono',                    // --> name of font used for texts
+          'https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300;400;700&display=swap',
+        name: 'Overpass Mono',                    // --> name of font used for texts
         fallback: 
         `'Courier New', Courier, monospace`           // --> the fallback font for texts
       },
@@ -71,13 +71,13 @@ dest: {
   namespace: '',
   html: 'dist',
   assets: 'dist',
-  bundle: 'js',               // --> where to store codedoc's bundle (relative to `assets`)
-  styles: 'css',               // --> where to store codedoc's styles (relative to `assets`)
+  bundle: 'assets',               // --> where to store codedoc's bundle (relative to `assets`)
+  styles: 'assets',               // --> where to store codedoc's styles (relative to `assets`)
 },
 misc: {
   github: {
     user: 'alemsabic',            // --> name of the user on GitHub owning the repo
-    repo: 'alems',         // --> name of the repo on GitHub
+    repo: 'govor_ulice',         // --> name of the repo on GitHub
     action: 'Issue',            // --> action of the GitHub button
     count: true,                // --> whether to show the `count` on the GitHub button
     standardIcon: true,         // --> whether to use the GitHub icon on the GitHub button or use an action specific icon

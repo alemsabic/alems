@@ -16,11 +16,7 @@
 > >
 > > > :Utterances theme=github-dark
 
-> :Hero src=/images/alems-white.svg,
->       mode=light, target=desktop
 
-> :Hero src=/images/alems.svg,
->       mode=dark, target=desktop
 
 
 # Quotes
@@ -155,10 +151,3 @@ You can use icons like [face](:Icon) in the middle of markdown.
 
 
 Wenn sich die Fußnote auf den ganzen Satz bezieht, steht die Ziffer nach dem schließenden Satzzeichen; wenn die Fußnote sich nur auf das unmittelbar vorangehende Wort oder die unmittelbar vorangehende Wortgruppe bezieht, steht die Ziffer vor dem schließenden Satzzeichen.
-
-## Codedoc Commands
-
-- codedoc check
-- codedoc update
-- codedoc update plugins
-- npm audit fix
