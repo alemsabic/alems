@@ -18,9 +18,6 @@ jobs:
           npm install @codedoc/cli
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
-          # copy assets
-          # mark no jekyll
-          touch dist/.nojekyll
           cp favicon.ico dist/
           cp favicon-16x16.png dist/
           cp favicon-32x32.png dist/
