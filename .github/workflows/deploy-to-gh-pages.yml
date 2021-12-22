@@ -19,7 +19,6 @@ jobs:
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
           # copy assets
-          cp -r images/ dist/images/
           # mark no jekyll
           touch dist/.nojekyll
           cp favicon.ico dist/
